@@ -1,0 +1,93 @@
+The concept of circular economy (CE) is quickly making its way into business literature since we are struggling with major environmental issues. Besides its environmental value, CE expects to bring 4.5 trillion dollars until 2030 due to effective allocation of resources. 
+
+However, to reap the benefits of CE, organizations must first measure and determine the circularity of their operations to find their ineffective practices. Because the CE concept has recently become part of organizations’ agendas, executives may want to know what metrics they should report. In this article, we will provide ten metrics for measuring corporate circularity.
+
+Advantages of measuring circularity of firms
+Enables determining a circular economy strategy: You may identify present pain points in your organization’s resource and waste management by measuring the circularity of your business, and then design plans to address these issues. Remember that CE is typically associated with efficiency since it strives to better allocate resources via the use of innovation and technology. As a result, calculating the CE level can help improve your operating efficiency.
+Promotes proactive business practices: 67% of companies consider that revealing their CE advancements will attract customers, investors, and suppliers. The easiest strategy to communicate their accomplishments is to use understandable measures and compare regular reports to indicate progress. 
+Help to achieve certificates: There are universal certificates, such as the cradle to cradle (C2C) certificate, that certify a company’s high CE requirements. Companies must measure the circularity of their business and enhance necessity areas based on the results in order to earn such certificates. 
+Measures legal cost of your business practices: States quickly changed their legislation after the Paris Agreement to penalize corporations with non-sustainable business practices. Extended producer obligations, plastic taxes can be seen under this umbrella and soon such regulations will be widespread. Therefore, measuring CE will be a matter of compliance.
+10 general metrics to measure corporate circularity
+In this section, we will go through ten metrics that can be used to assess companies’ CE level that operate in a variety of industries. 
+
+We want to emphasize the importance of industry-specific indicators before we introduce general metrics. For example, greater portfolio circularity is associated with greater CE level of a finance institution since it perceives environmental proactivism as a favorably related metric to invest in. However, such a metric is completely meaningless for healthcare organizations who should place a high priority on reducing hazardous waste.
+
+1. Resource productivity
+Resource productivity shows how effectively companies allocate materials they borrow from Earth. The greater the ratio means greater circularity and operational efficiency (see Figure 1 for formula). 
+
+For example, each ounce of iron ore used to make sheet metal is classified as virgin (non recycled) material input for a car manufacturer. The higher the dollar sales for a particular amount of iron ore consumed, the more efficient and circular the company.
+
+Figure 1: Formula of resource productivity:
+
+Total sales of the firm in terms of dollars is divided by mass of virgin material inflow.
+Resorce Productivity Formula
+2. Percentage of non-virgin (renewed) material used
+There are two main sources that manufacturers derive raw material from. They can use (virgin) resources of nature or they can renew consumed goods and materials into raw materials. This metric examines the percentage of renewed materials for production purposes. The greater the value implies the greater circularity of business (See Figure 2 for formula).
+
+Many multinational corporations have begun programs to improve the percentage of recycled materials in use. For example, in 2013, the Swedish textile firm H&M launched the “Let’s Close the Gap” campaign, which seeks to utilize recycled, entirely sustainable raw materials in all of their production until 2030. As a result, consumers’ old garments are collected by the company. According to Forbes, H&M used 57% sustainable raw materials in 2019.
+
+Figure 2: Formula of percentage of non-virgin materials:
+
+Mass of renewed raw material is divided by mass of total raw materials and then the result is multiplied by a hundred to find the percentage.
+Percentage of Non-virgin Materials Formula
+3. Percentage of recyclability of product
+To ensure CE, it is critical to employ biodegradable, recyclable materials throughout the manufacturing process. The higher the percentage of recyclability of your product, the more likely other companies, including your own, will be able to use it as a source of raw material after recycling.
+
+It’s vital to remember that the actual rate of recycling is the true indicator that accurately reflects your production’s circularity. However, it is difficult to calculate precisely, especially in the case of consumer goods.
+
+Nevertheless, companies can nudge consumers to recycle recyclable goods. For instance, the deposit system incentivizes customers to return used goods by refunding them a certain amount of money. 
+
+4. Percentage of circular water consumption
+Many businesses can enhance sustainability by using treated wastewater instead of drinkable water. This indicator evaluates what percentage of recycled water is used by businesses in their operations. The higher the ratio, the more water is used in a circular fashion (see Figure 3 for formula).
+
+According to McKinsey, if we do not change our habits, water demand will surpass drinkable water supplies by 40% in 2030. 35% of the population already lacks access to safe drinking water. It is a priceless resource for millions of people, and corporations in developed countries consume about 60% of the water supply due to lack of reuse.
+
+Cooperation among businesses can help accelerate the change of businesses to circular water use. Within an organized industrial site, companies can reuse treated wastewater from each other. For example, the water waste from a pasta manufacturer can be reused by a chemical firm, and once the water has become toxic to the point that it can no longer be reused, it is disposed of according to environmental standards like GRI 306.
+
+Figure 3: Percentage of circular water consumption formula:
+
+Quantity of treated wastewater consumption is divided by the quantity of total water consumption and then the result is multiplied by a hundred to find the percentage.
+Formula of Percentage of Circular Water Consumption
+5. Percentage of circular water discharge
+Logic of CE is similar to the logic of the accounting T-table. What is taken by nature should be equal to what is given. As a result, increased circularity of business is connected with a higher percentage of water discharge that can be utilized by other enterprises or agencies (see Figure 4 for formula).
+
+To discharge the clear water, firms should have facilities that allow water for reuse. 
+
+Figure 4: Percentage of circular water discharge formula:
+
+Quantity of circular water discharge is divided by the quantity of total water consumption and then the result is multiplied by a hundred to find the percentage.
+Formula of Percentage of Circular Water Discharge
+6. Percentage of renewable energy consumption
+Using energy resources like wind or sun in a greater proportion is associated with greater CE practices since they eliminate the use of natural resources like coal. Also, using renewable energy reduces the corporate carbon footprint of the companies (see Figure 5 for formula). 
+
+Many businesses and national organizations disclose their/national firms’ percentage of renewable energy consumption to the public. For example, the US Environmental Protection Agency has announced 30 retail enterprises’ percentage of renewable energy metrics.
+
+Figure 5: Percentage of renewable energy consumption formula:
+
+Annual renewable energy consumption is divided by the total total energy consumption and then the result is multiplied by a hundred to find the percentage.
+Formula of Percentage of Renewable Energy Consumption
+7. Estimated environmental saving of rentals
+Leasing can cut a company’s operating costs while also lowering its environmental effect. Businesses can become more circular by using “pay as you use” goods and services. Companies can estimate such environmental savings. Consider a business that leases vehicles and lets other firms reuse them. Such a firm can estimate the environmental savings by calculating the carbon footprint of the vehicles.  
+
+8. Repairability of product
+Repairability measures how many parts of a product are accessible for maintenance. The greater repairability of the product is associated with longer usage duration since consumers can fix them.
+
+In this regard, firms should focus on their design and produce as a decomposable way to enhance repairability. Availability of spare parts is another important aspect of the repairability ratio. 
+
+9. Warranty period
+If a company is confident in the longevity of its products, it will issue warranties that last for a long time. As a result, it is an implicit statistic that provides information about a company’s CE level.
+
+Sunglasses manufacturer Waterhaul, for example, offers a lifetime warranty on their products. They employ ghost fishing nets as raw materials for sunglass production and are confident in the durability of their raw materials, which can resist years of exposure to salt water.
+
+10. Progress towards goals
+Firms must track their progress after establishing specific goals for circularity. For example, we previously stated that H&M wants to use 100 percent recycled raw materials in their manufacturing, which was 57 percent in 2019. Executives, investors, and customers can analyze the performance of a company’s CE strategy by comparing annual changes and decide accordingly.
+
+How can firms collect data for measuring these metrics?
+Companies might need to export data from their suppliers in order to calculate many of the metrics we mentioned precisely. For the case of resource productivity metric, if sheet metal is outsourced by a vehicle manufacturer, the supplier has information on what percentage of sheet metal is made from natural resources and what percentage is made from recycled scrap iron. To extract such data you can use cloud supply chain ERP systems which allows data flow through the supply chain if your suppliers agree to collaborate.
+
+Also it is possible to work with environmental consultancies which have expertise about such issues.
+
+If you are also interested in ESG reporting metrics you can read our 3 Types of Metrics CEOs Must Use in ESG Reporting article. 
+
+Carbon footprint is another metrics firms need to assess to see their progress towards net zero. To automate the measurement process you need a carbon footprint calculator. By reading our Top 7 Carbon Footprint Calculator Software/Tools for Businesses article you can find the carbon footprint software that suits you.
+

@@ -1,0 +1,3214 @@
+ The OECD Inventory of Circular Economy indicators
+1
+  THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+2
+Table of contents
+What the Inventory is about 2 Environmental-related indicators 7 Governance related indicators 23 Economy and business indicators 41 Infrastructure and technology indicators 48 Societal indicators 52 References 55
+ The Inventory collects 474 indicators and draws from Chapter 5 of the OECD 2020 report: The Circular Economy in Cities and Regions. The Inventory is intended to be a dynamic tool that will be updated, following the progress cities, regions and national governments are making in measuring advancements towards the circular economy.
+What the Inventory is about
+The OECD Inventory of Circular Economy Indicators collects 474 circular-economy-related indicators, between 2018 and 2020. Collected indicators belong to 29 circular economy studies of which 8 are applied at the national level, 8 at the regional level and 11 at the local level (Annex A). The OECD inventory
+ THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+includes indicators signalled by respondents of the OECD Survey on the Circular Economy in Cities and Regions (OECD, 2020[1]). As per the geographical scope, most of the indicators are from European sources but the inventory also includes available sources from North and South America (Canada, Chile and Colombia).
+The OECD inventory gathers input, process and output indicators employed by governments at different levels, in particular to monitor and evaluate the progress of existing circular economy strategies. The inventory provides an overview of circular economy measurement frameworks. It helps identify measurement gaps and can be a source of inspiration for governments wishing to develop or use indicators to improve circular-economy-related policies.
+The inventory is intended to be a dynamic tool to be frequently and regularly updated given the progress made by countries, regions and cities in developing circular economy strategies and related measurement frameworks.
+The inventory classifies circular economy indicators into five main categories (Figure 1):
+Figure 1. Categories of circular economy indicators
+Environment
+Governance
+Economic and business
+5% 8%
+Infrastructure and technology
+39%
+Social
+3
+   14%
+34%
+Note: The graph refers to the 474 indicators belonging to 1 of the 5 categories.
+Source: OECD (2020),The Circular Economy in Cities and Regions:Synthesis Report, OECD Urban Studies, OECD Publishing, Paris, https://doi.org/10.1787/10ac6ae4-en.
+ Environment (39%): Collects indicators with a direct impact on the ecosystem, such as emissions, output material process and production and consumption.
+ Governance (34%): Focuses on indicators related to education, capacity building and regulation, among others.
+ Economic and business (14%): Includes those indicators expressed in monetary units such as the value-added of the circular economy and the public investment in circular economy projects, as well as those indicators specifically focusing on activities performed by and within companies.
+ Infrastructure and technology (8%): Covers all the indicators that aim to measure the existence of tools, technologies and spaces that boost the circular economy.
+ Jobs (5%): Gathers indicators associated with employment and human resources.
+THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+4
+In order to provide a clear reading of the scope of the collected indicators, they have been classified into five main categories (economy and business; environment; governance; infrastructure and technology; and jobs), 33 sub-categories and 11 sectors (Table 1Table 1.).
+Regarding the scale, the literature refers to three main scales at which measurements are carried out: micro (such as a product or company), meso (such as eco-industrial parks and industrial symbiosis) and macro (such as a city, province, region, or nation) levels (Moraga et al., 2019[6]; Ekins et al., 2019[7]; Alaerts et al., 2018[8]). The OECD Inventory of Circular Economy Indicators collects macro-level indicators.
+Table 1. Categories and sub-categories of indicators from the OECD Inventory
+  Category Economy and business
+Environment
+Governance
+Sub-category
+            Infrastructure and technology
+Jobs
+ Added value
+ Business
+ Economic efficiency  Economic structure  Gains and revenues  Investments
+ Productivity
+ Savings
+ Efficiency
+ Emissions
+ Output material process
+ Production and consumption  Savings
+ Use
+ Other
+ Awareness-raising  Capacity building  Collaboration
+ Education
+ Financing
+ Innovation, pilots and experiments  Monitoring and evaluation
+ Public procurement
+ Regulation
+ Stakeholder engagement
+ Strategy and initiatives
+ Other
+ Area
+ Equipment
+ Facilities
+ Products and services  Other
+ Jobs and human resources
+    In addition to categories and sub-categories, indicators are categorised according to the sector to which they belong. However, when indicators do not relate to a specific sector or relate to the “circular economy” in general, they have been categorised as “not sector-specific”. Sectors with representation equal or below 1% of the OECD inventory have been included in the “Other” category. The 11 sectors are the following: air; built environment; energy; food; public administration; resources and materials; reuse, repair, share; waste; water; not sector-specific; and other (agriculture, culture, forest, industry, land use, mobility, textile and tourism).
+THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+The OECD inventory distinguishes 11 sectors. Mostly, indicators from the inventory do not refer to any specific sector (not sector-specific, 31% of the OECD inventory) but rather to the circular economy in the broadest sense of the term. Contrary to other indicators, they may be objective-driven rather than data- driven, as they have been created specifically to measure the progress of circular economy initiatives. Examples of these indicators are: the number of companies that received financial assistance related to the circular economy; and the number of city contracts evaluated using circular economy principles. The remaining sectors are the following (Figure 2):
+Figure 2. Indicators by sector
+Public administration 3%
+Water 3%
+Food 3%
+Energy 7%
+Built environment 7%
+Reuse, repair, share 8%
+Air 2%
+Other 6%
+Resources and materials 10%
+Waste 20%
+Note: Data refer to 474 collected indicators.
+Source: OECD (2020[2]),The Circular Economy in Cities and Regions:Synthesis Report, OECD Urban Studies, OECD Publishing, Paris, https://doi.org/10.1787/10ac6ae4-en .
+ The waste sector represents 20% of the inventory. Mostly, indicators are related to the environment category (71%; Figure 3). Indicators concern both waste generation and management. Waste indicators also distinguish across categories of waste, such as bio-waste, plastics waste and electrical waste. Waste treatment differentiates between landfill, incinerated waste, recycled waste and the number of composting plants created.
+ Indicators on resources and materials represent 9% of the framework, measuring material flows (exports and imports), the self-sufficiency of materials and the recovery of materials. These indicators are prevalently included in the environmental category (78%).
+ A total of 8% of the sample refer to repair, reuse and share, which mainly covers the categories of infrastructure and technology (35%), environment (28%) and governance (20%). This sector includes indicators on impacts and results from the reuse and repair of several objects and materials (e.g. objects redirected/repaired from recycling centres; the number of goods reused internally in the local administration; and the ratio of products repaired to new products sold). Additionally, it addresses the infrastructure that promotes and enables repair and reuse. Examples of the latter are: the number of reuse centres in the city; the number of recycling centres organised; and collaborative spaces equipped with materials and equipment to encourage repair. Other indicators cover the governance approach of the sector, including indicators such as the number
+THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+No sector specific 31%
+5
+ 
+6
+of meetings of a working group to boost sharing or the number of projects realised for the sharing
+economy.
+ A total of 7% of indicators are devoted to the built environment, of which 44% belongs to the governance category (Figure 3Figure 3. ). Indicators cover the whole life cycle of buildings, from the design (e.g. construction works with circular design and projects incorporating smart design) to end of life (e.g. recovery rate of construction and demolition waste). Other indicators refer to the use and consumption of materials (e.g. construction and demolition waste usage rate, the recovery rate of construction and demolition waste, the recovery rate of construction waste as material). Several indicators also address the existence of circular-economy-related certifications for buildings (e.g. number of companies with certification based on life cycle or eco-design, percentage of construction projects applying to certification programmes and the inclusion of eco-designed products).
+ There is a small number of energy-related indicators (7%), most of them classified in the environmental category (85%). The existing indicators mostly relate to energy consumption levels (e.g. biofuel consumption; energy efficiency in buildings and homes; and electrical energy consumption), energy recovery (e.g. percentage of used lubricant oils collected and treated for energy recovery) and energy valorisation (e.g. the number of projects implemented for the valorisation of energy).
+ Food (7%) is another relevant sector for measuring circularity, especially in terms of waste: the amount of food waste generated, the number of food recovery-redistribution actions and food waste avoided through a circular consumption.
+ Water-related indicators (3%) mainly focus on water regeneration and wastewater, mainly belonging to the environmental category (46%). Some examples from the inventory are: regenerated water used as a source of water supply; the percentage of urban wastewater treated/total wastewater generated; and the number of approved water reuse projects per year.
+ Few measurement frameworks have started to monitor the role of the public administration as a driver for the circular economy (3%). Governance is the primary category within this sector (58%). Some examples of the indicators are: the number of municipal staff trained on the circular economy; the economic savings from the reuse of furniture and equipment of the local administration; and the number of municipal staff actively working on the development of a circular vision.
+ Indicators related to the sub-category air (2%) refers to emissions of CO2 and GHG, and are all included in the environmental category (100%). However, according to the OECD survey, cities and regions tend to have difficulties in the collection of reliable data for measuring emissions.
+ Other sectors (6%): this group encompasses the sectors with few additional indicators (with representation equal or below 1% of the OECD inventory) and includes the following sectors, ordered by their share in the inventory: land use (e.g. new districts incorporating the principles of the circular economy); textile (e.g. clothing recycled per year and savings made by not replacing items of clothing); culture (e.g. collected materials and objects in pilot projects within cultural facilities and Identification of pilot operations in the cultural sector); industry (e.g. working group meetings with major industry players for better regulatory alignment as a boost to the circular economy); agriculture (seed banks and agro-ecological initiatives); mobility (car sharing and use of private vehicles in cities); forestry (direct jobs associated with the forest/wood sector); and tourism (number of tourism enterprises and productivity of the sustainable tourism sector).
+Figure 3 shows the distribution of the sectors across the categories. Energy (85%), resources and materials (78%) and waste (71%) are predominantly included in the “environment” category. Indicators not sector- specific (62%), public administration (58%) and built environment (44%) belongs to the “governance” category. Regarding the category “infrastructure and technology”, indicators refer to reuse, repair and
+THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+share (35%), food (19%) and built environment (12%). Finally, the “job” category is composed of indicators referring to not sector-specific (12%), public administration (8%) and repair, reuse and share (8%) indicators.
+Figure 3. Composition of sector indicators by category
+7
+ 100% 90% 80% 70% 60% 50% 40% 30% 20% 10% 0%
+No sector specific
+Waste
+Resources and Reuse, repair, materials share
+Built environment
+Energy
+Food Water
+Public administartion
+Air
+Economy and business
+Environment
+Governance
+Infrastructure and technology
+Social
+             12%
+ 6%
+ 7%
+ 8%
+3% 12%
+   9%
+ 19%
+ 8%
+ 3%
+ 18%
+31%
+  35%
+25%
+44%
+58%
+ 62%
+78%
+100%
+ 71%
+20%
+85%
+46%
+ 44%
+  1%
+ 28%
+32%
+17%
+ 23%
+23%
+      16%
+  10%
+  9%
+   13%
+   17%
+  5%
+  6%
+                                    Note: The graph refers to the 474 indicators.
+Source: OECD (2020[2]),The Circular Economy in Cities and Regions:Synthesis Report, OECD Urban Studies, OECD Publishing, Paris, https://doi.org/10.1787/10ac6ae4-en.
+Environmental-related indicators
+According to the sample collected within the OECD Inventory of Circular Economy Indicators, environmental indicators prevail (39%) (Table 2). Environmental indicators have been divided into sub- categories, following the categorisation applied by the European Commission (EC) (2018[3]) and the European Environment Agency (EEA) (2016[4]) as much as possible:
+ Output material process indicators prevail (36% of all the environmental indicators). This sub-category includes indicators measuring the various phases of waste and material that can be reused and transformed into resources (e.g. material collected for the reuse of building materials and collection of plastics; objects recovered in reuse centres and materials and waste recovered).
+ Production and consumption (27%) cover materials and resources that have been used in the economy, mostly in the generation of waste measured in several sectors (e.g. construction waste, food waste, waste generation from commerce and industry, municipal waste). The consumption of resources is also included within this sub-category: energy consumption, domestic material consumption, consumption of virgin materials and water consumption.
+ The sub-category of use (14%) describes those indicators on the utilisation and reuse of resources (e.g. amount of resources used and put back into the system; direct resource use; and direct land use), as well as several use rates (e.g. circular material use rate and reuse of packaging waste).
+ Savings (12%) refers to indicators mentioning the consumption avoidance and savings of different resources such as energy, food, raw materials and clothing (e.g. food waste avoided through a circular consumption and energy saved by energy efficiency programmes).
+ Emissions indicators (9%), mainly measure the generation of greenhouse gases including CO2 emissions from different activities. In some cases, these indicators concern the circular economy
+THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+8
+in a broad sense and do not refer to specific sectors (e.g. CO2 emissions per capita), while other indicators are associated to specific activities and areas (e.g. emissions related with the consumption of materials; CO2 savings as a result of procurement activities the carbon impact of waste generation).
+ Other indicators from this category analyse efficiency (2%), which measures the achievement of the maximum output from a given level of resources used to carry out an activity (OECD, 2013[5]). Efficiency-related indicators in the sample focus on the energy sector (e.g. energy efficiency, energy intensity and energy efficiency in buildings and homes).
+Table 2. Environmental indicators
+     Subcategory
+Efficiency
+Efficiency
+Efficiency
+Efficiency
+Efficiency
+Efficiency
+Efficiency
+Efficiency Efficiency Efficiency
+Sector
+Indicator Unit
+Year
+2018
+2018
+2017
+2015
+2017
+Name of the Study
+Measuring the Circular Economy Developing an indicator set for Opportunity Peterborough
+Extremadura 2030. Green and Circular Economy Strategy
+Towards a Model of Circular Economy for Italy - Overview and Strategic Framework
+Promoting the Green and Circular Economy in Catalonia
+Towards a Model of Circular Economy for Italy - Overview and Strategic Framework
+National Strategy for the Circular Economy
+Agenda for the Development of the Circular Economy in Navarra 2019- 2030
+National Strategy for the Circular Economy
+National Strategy for the Circular Economy
+Circular economy: what we want to know and can measure
+    Energy
+ Amount of renewable electricity available to each household
+   NA
+   Energy
+  Electricity from renewable sources (gross production)
+    GWh
+   Energy
+ Energy efficiency
+   NA
+           Energy
+Energy
+Energy Energy Energy
+Energy efficiency in buildings and homes
+Energy intensity
+Installed MW of biomass generation
+MW installed from renewable sources
+Renewable energy
+NA
+    Energy
+  Energy from renewable sources
+    NA
+     TJ 2019 2019
+    Energy
+  Final energy intensity
+    Tonne of oil equivalent (toe)
+     MW
+MW
+% of energy use
+2019
+2019
+2018
+               THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+9
+    Energy
+  The share of renewable energy in district heating
+    %
+   Efficiency Emissions
+Emissions
+Emissions Emissions
+Emissions
+Emissions
+Emissions Emissions
+Emissions
+Emissions Emissions Emissions
+Emissions
+Emissions
+Strategic programme of
+NA competitiveness and sustainable
+  Air Carbon impact of waste
+Air CO2 consumption footprint
+Air CO2 emissions
+NA 2016
+growth
+Making Things Last A Circular Economy Strategy for Scotland
+1st Roadmap Paris Circular Economy Plan
+    Air
+  CO2 avoided as a consequence of recovery and reuse of materials
+    NA
+   2017
+  Billion kg Tonnes
+2018 Circular economy: what we want to know and can measure
+2019 Contatore ambientale
+Measuring the Circular Economy 2018 Developing an indicator set for
+Opportunity Peterborough
+Circular Amsterdam – A Vision and 2016 Action Agenda for the City and
+Metropolitan Area
+Circular economy: what we want to know and can measure
+         Air
+ CO2 emissions per capita
+   T onnes/capita
+   Air
+  CO2 emissions reduction
+    ktons
+        Air CO2 emissions, direct
+Air CO2 savings as a result of procurement activities
+Air GHG Emissions
+Air Greenhouse gas emissions per capita
+Air Greenhouse gas reduction
+Air Reduction of CO2 emissions due to the
+Billion kg 2018
+     NA
+2018 Circular Economy Procurement implementation Plan and Framework
+    Air
+  Contribution of greenhouse gases in the waste sector
+    CO2eq (kt)
+   2020 t CO2/year 2019
+Spanish Strategy for Circular Economy: España Circular 2030
+The Green and Circular Economy of Barcelona City Council
+       NA %
+2015 Resource wisdom roadmap
+2019 National Strategy for the Circular Economy
+Leading the transition [Action plan for 2017 circular economy in Portugal: 2017-
+2020]
+2nd Roadmap Paris Circular Economy Plan
+         Air
+  Reduced emissions through green public procurement
+    NA
+     NA 2018
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+10 
+      implementation of a Green IT strategy in the local administration
+         Emissions Emissions
+Emissions
+Emissions
+Other
+Other
+Other
+Output material process
+Output material process
+Output material process
+Output material process
+Air
+Saving of CO2 emitted
+Tonnes 2018
+Extremadura 2030. Green and Circular Economy Strategy
+    Air
+  Total Greenhouse Gas Emissions
+    Thousand tonnes/year
+   Energy
+Energy consumption avoidance through the reduction of the digital impact in the local administration
+  Number
+   Resources, materials, waste
+ Reduction of carbon emissions associated with material consumption
+   % (In relation to a base year)
+   No sector specific
+  Environmental impact
+    NA
+   Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+2030
+2nd Roadmap Paris Circular Economy Plan
+Basque Country Circular Economy Strategy 2030
+   2018
+2019
+        No sector specific
+Environmental quality
+NA
+Towards a Model of Circular Economy 2017 for Italy - Overview and Strategic
+Framework
+2015 Promoting the Green and Circular Economy in Catalonia
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+2030
+Towards a Model of Circular Economy 2017 for Italy - Overview and Strategic
+Framework
+1st Roadmap Paris Circular Economy Plan
+Paris Circular Economy Plan: 2017- 2020
+Circular Economy Procurement implementation Plan and Framework
+    Resources, materials, waste
+  Material footprint per GDP
+    NA
+   Resources, materials, waste
+ Materials from renewable sources
+   NA
+   Resources, materials, waste
+Materials recovered through reuse and recycling
+  T onnes
+   Resources, materials, waste
+  Percentage increase in materials recovery (t) and organic recovery (t)
+    %
+   Resources, materials, waste
+ Percentage of recycled content used in materials
+   %
+         2017
+2017
+2018
+        THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+    Resources, materials, waste
+ Percentage reduction of incoming / outgoing flows
+   %
+   Resources, materials, waste
+  Raw materials avoided/displacement factor
+    NA
+   Reuse, repair, share
+Cyclical use rate
+  secondary application as % of total
+   Reuse, repair, share
+ Number of goods reused internally in the local administration
+   Number
+   Reuse, repair, share
+ Objects collected and diverted for reuse
+   Tonnes / number
+   Reuse, repair, share
+  Objects recovered in reuse centres
+    T onnes
+   Reuse, repair, share
+Objects redirected/repaired from recycling centres
+  T onnes
+   Reuse, repair, share
+  Objects repaired at Repair Cafés
+    T onnes
+   Reuse, repair, share
+Percentage of household assets at the end of their administrative life that are donated or resold
+  %
+   Reuse, repair, share
+ Ratio of products repaired to new products sold (including reused vs. new schoolbooks)
+   Ratio
+   Reuse, repair, share
+  Repair and reuse of materials
+    T onnes
+   T extile
+ Clothing recycled per year
+   T onnes
+   Output
+material 2017 process
+Output
+material 2018 process
+Output
+material 2018 process
+Output
+material 2018 process
+Output
+material 2018 process
+Output
+material 2017 process
+Output
+material 2017 process
+Output
+material 2017 process
+Output
+material 2018 process
+ 11 Paris Circular Economy Plan: 2017-
+2020
+Circular Economy Procurement implementation Plan and Framework
+Circular economy: what we want to know and can measure
+2nd Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+                           Output material process
+Leading the transition [Action plan for 2017 circular economy in Portugal: 2017-
+2020]
+Galician Strategy of Circular Economy 2019-2030
+1st Roadmap Paris Circular Economy Plan
+   Output
+material 2019 process
+Output
+material 2017 process
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+12 
+    T extile
+  Number of items of clothing repaired per year
+    Number
+   Waste
+Amount of recovered material through an inclusive recycling programme
+  NA
+   Waste
+  Evolution of the tonnage of plastics collected in the city
+    T onnes
+   Waste
+ Evolution of the tonnage of plastics recycled in the city
+   T onnes
+   Waste
+Evolution of the tonnage of plastics used in the city
+  T onnes
+   Waste
+ Recovery of fisheries waste
+   %
+   Waste
+  Recycling of biowaste per capita
+    Kg/capita
+   Waste
+Tons of materials recovered and recycled from 100 000 replaced refrigerators.
+  T onnes
+   Built environment
+  Construction waste
+    NA
+   Built environment
+Total amount of waste produced by construction and demolition
+  NA
+   Food
+  Total amount of food waste generated per year
+    kg/inhabitant
+   Food
+ Food waste
+   Million tonnes
+   Output
+material 2017 process
+1st Roadmap Paris Circular Economy Plan
+   Output material process
+2013 Inclusive Recycling Programme
+   Output
+material 2018 process
+Output
+material 2018 process
+Output
+material 2018 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2017 process
+Output
+material 2016 process
+Output
+material 2019 process
+Output
+material 2019 process
+2nd Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+Galician Strategy of Circular Economy 2019-2030
+Monitoring framework for the circular economy
+National Strategy for the Circular Economy
+Roadmap of the circular economy of North Karelia
+Making Things Last A Circular Economy Strategy for Scotland
+Basque Country Circular Economy Strategy 2030
+Monitoring framework for the circular economy
+                             THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+    Food
+ Food Waste
+   kg/capita per year
+   Food
+ Volume of food waste (biomass) generated
+   T onnes
+   Waste
+  % reduction of the generated household waste from 2010
+    %
+   Waste
+Change in the volume of household waste
+  NA
+   Waste
+  Generation of municipal waste per capita
+    Kg/capita
+   Waste
+Generation of waste excluding major mineral waste per domestic material consumption unit
+  %
+   Waste
+  Illegal dumping
+    Number
+   Waste
+Mixed waste
+  kg/person/year
+   Waste
+ Percentage of waste diversion as a result of procurement activities
+   %
+   Waste
+  Residual waste
+    kg/person/year
+   Waste
+ Solid waste generated
+   T onnes
+   Waste
+ Tons of waste avoided
+   T onnes
+   Output
+material 2017 process
+Output
+material 2019 process
+ 13 10 Key Indicators for Monitoring the
+Circular Economy
+Galician Strategy of Circular Economy 2019-2030
+      Output
+material
+process 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Output
+material 2018 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2018 process
+2nd Roadmap Paris Circular Economy Plan
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+2nd Roadmap Paris Circular Economy Plan
+            Output material process
+NA NA
+   Output
+material 2018 process
+Circular Economy Procurement implementation Plan and Framework
+   Output material process
+Output material process
+NA NA
+2018 Circular Bilbao and Bizkaia
+      Output
+material 2017 process
+Paris Circular Economy Plan: 2017- 2020
+  THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+14 
+    Waste
+ Total amount of waste produced by commerce and industry
+   NA
+   Waste
+ Total amount of waste produced by households
+   NA
+   Waste
+  Use of packaging waste articulated to extended producer responsibility
+    NA
+   Waste
+ Waste produced by commerce and industry per unit of GVA
+   NA
+   Waste
+Waste produced by construction and demolition per unit of GVA
+  NA
+   Waste
+ Waste produced by households per unit of GVA
+   NA
+   Waste
+  Waste production
+    Billion Kg
+   Waste
+ Waste production per kilogram of product produced
+   kg waste/kg product
+   Built environment
+Construction and demolition waste usage rate
+  %
+   Built environment
+  Recovery rate of construction and demolition waste
+    %
+   Built environment
+ Recycling rate of construction waste
+   %
+   Built environment
+ Separate collection rate of construction waste
+   %
+   Output
+material 2016 process
+Output
+material 2016 process
+Output
+material 2019 process
+Output
+material 2016 process
+Output
+material 2016 process
+Output
+material 2016 process
+Output
+material 2018 process
+Output
+material 2018 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2017 process
+Output
+material 2017 process
+Making Things Last A Circular Economy Strategy for Scotland
+Making Things Last A Circular Economy Strategy for Scotland
+National Strategy for the Circular Economy
+Making Things Last A Circular Economy Strategy for Scotland
+Making Things Last A Circular Economy Strategy for Scotland
+Making Things Last A Circular Economy Strategy for Scotland
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+National Strategy for the Circular Economy
+Monitoring framework for the circular economy
+Roadmap of the circular economy of North Karelia
+Roadmap of the circular economy of North Karelia
+                                   THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+    Resources, materials, waste
+ Circular material use rate (ratio recycled material / (recycled material + CDM)
+   %
+   Resources, materials, waste
+ End-of-life recycling input rates
+   %
+   Resources, materials, waste
+  Recycled materials
+    NA
+   Resources, materials, waste
+ Reduced waste through green public procurement
+   NA
+   Reuse, repair, share
+Objects exchanged and diverted from the waste stream in the city
+  T onnes
+   Reuse, repair, share
+ Reuse waste
+   % of available waste
+   Waste
+  Exporting landfill waste
+    NA
+   Waste
+Household waste recycled
+  %
+   Waste
+  Non household waste recycled
+    %
+   Waste
+ Percentage of recovered waste over generated (batteries and accumulators)
+   %
+   Waste
+ Percentage of recovered waste over generated (electrical and electronic equipment waste)
+   %
+   Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+ 15 Basque Country Circular Economy
+Strategy 2030
+Monitoring framework for the circular economy
+Towards a Model of Circular Economy 2017 for Italy - Overview and Strategic
+Framework
+Leading the transition [Action plan for 2017 circular economy in Portugal: 2017-
+2020]
+2nd Roadmap Paris Circular Economy Plan
+Circular economy: what we want to know and can measure
+2015 NA wisdom roadmap
+Measuring the Circular Economy 2018 Developing an indicator set for
+Opportunity Peterborough
+Measuring the Circular Economy 2018 Developing an indicator set for
+Opportunity Peterborough
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+2030
+2019
+2019
+            2018
+2018
+                    THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+16 
+    Waste
+ Percentage of recovered waste over generated (End of life tyres)
+   %
+   Waste
+  Percentage of recovered waste over generated (End of life vehicles)
+    %
+   Waste
+ Percentage of recovered waste over generated (Extracted natural resources)
+   %
+   Waste
+Percentage of recovered waste over generated (Household and commercial)
+  %
+   Waste
+ Percentage of recovered waste over generated (Used oils)
+   %
+   Waste
+  Percentage of recovered waste over generated (Water treatment sludge)
+    %
+   Waste
+ Percentage of recyclable plastic packaging placed on the market
+   %
+   Waste
+Quantities of waste sent to landfill
+  Proportion of municipal waste sent to landfill (%)
+   Waste
+  Quantity of bio-waste managed by on-site composting
+    % of total biowaste
+   Waste
+Quantity of waste
+avoided by waste reduction schemes
+  Number
+   Waste
+  Recycled amount
+    T onnes
+   Waste
+ Recycling rate
+   %
+   Output
+material
+process 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Output
+material
+process 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Output
+material
+process 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Output
+material
+process 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Output
+material
+process 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Output
+material
+process 2030
+Output
+material 2019 process
+Output
+material 2017 process
+Output
+material 2019 process
+Output
+material 2017 process
+Basque Country Circular Economy Strategy 2030
+10 Key Indicators for Monitoring the Circular Economy
+Galician Strategy of Circular Economy 2019-2030
+1st Roadmap Paris Circular Economy Plan
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+               Output material process
+NA NA
+   Output
+material NA process
+Circular Economy framework Monitoring report
+  THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+    Waste
+ Recycling rate
+   %
+   Waste
+ Recycling rate of all waste excluding major mineral waste
+   %
+   Waste
+  Recycling rate of electrical and electronic waste (e-waste)
+    %
+   Waste
+Recycling rate of municipal waste
+  %
+   Waste
+  Recycling rate of overall packaging
+    %
+   Waste
+Recycling rate of plastic packaging waste
+  %
+   Waste
+  Recycling rate of wooden packaging
+    %
+   Waste
+Reuse of packaging waste (%)
+  %
+   Waste
+  Separate waste collection
+    %
+   Waste
+Tonnage of waste diverted via repair, reuse, recovery and upcycling activities (recycling centres, artisans, second-hand goods stores, fab labs, etc.)
+  T onnes
+   Waste
+  Tons of waste avoided through the donation and reselling scheme to the city
+    T onnes
+   Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2017 process
+Output
+material 2018 process
+ 17 National Strategy for the Circular
+Economy
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+National Strategy for the Circular Economy
+The Green and Circular Economy of Barcelona City Council
+Paris Circular Economy Plan: 2017- 2020
+2nd Roadmap Paris Circular Economy Plan
+                                THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+18 
+    Waste
+ Tons of waste collected and managed from computers and peripherals, fluorescent lamps, batteries and accumulators, used lead-acid batteries, expired pesticide and drug containers
+   T onnes
+   Waste
+ Total waste treatment: Incineration
+   t/inhabitant
+   Waste
+ Total waste treatment: Landfill
+   t/inhabitant
+   Waste
+ Total waste treatment: Recycling
+   t/inhabitant
+   Waste
+  Urban waste collected separately by conducting pilot experiments.
+    %
+   Waste
+Waste avoided through collection and recovery of objects
+  T onnes
+   Waste
+ Waste recovery through an Inclusive Recycling Program
+   NA
+   Waste
+ Waste separation
+   %
+   Waste
+  Waste streams to landfills
+    NA
+   Waste
+ Waste to landfill
+   T onnes
+   Waste
+ Waste value recovery
+   %
+   Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2019 process
+Output
+material 2017 process
+National Strategy for the Circular Economy
+Basque Country Circular Economy Strategy 2030
+Basque Country Circular Economy Strategy 2030
+Basque Country Circular Economy Strategy 2030
+Galician Strategy of Circular Economy 2019-2030
+1st Roadmap Paris Circular Economy Plan
+                  Output material process
+Output material process
+Output material process
+Output material process
+Output material process
+2013 Inclusive Recycling Programme
+NA NA
+2015 NA
+2019 Contatore ambientale
+2018 Circular Bilbao and Bizkaia
+              THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+    Water
+ Percentage of urban wastewater treated / total wastewater generated
+   %
+   Energy
+ Gross electricity production
+   GWh
+   Energy
+  Biofuels (consumption)
+    Ktoe
+   Energy
+Diesel consumption (transport sector)
+  ktoe
+   Energy
+  Electrical energy (consumption) in power plant bars
+    GWh
+   Energy
+ Electrical energy consumption
+   MW
+   Energy
+Electricity from renewable sources in the consumption of power plant bars
+  %
+   Energy
+ Energy consumption (final)
+   toe/inhabitant
+   Energy
+  Energy consumption (primary)
+    toe/inhabitant
+   Energy
+Energy consumption avoidance from solutions from energy and water resources recovery
+  kWh
+   Energy
+  Energy from renewable sources in gross final energy consumption
+    %
+   Output
+material 2019 process
+Production 2018
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+Production
+and 2019
+consumption
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+ 19 National Strategy for the Circular
+Economy
+Extremadura 2030. Green and Economy Strategy
+Extremadura 2030. Green and Economy Strategy
+Extremadura 2030. Green and Economy Strategy
+Extremadura 2030. Green and Economy Strategy
+Contatore ambientale
+Extremadura 2030. Green and Economy Strategy
+Extremadura 2030. Green and Economy Strategy
+Extremadura 2030. Green and Economy Strategy
+Circular
+Circular
+Circular
+Circular
+Circular
+Circular
+Circular
+                           2nd Roadmap Paris Circular Economy Plan
+Extremadura 2030. Green and Circular Economy Strategy
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+20 
+    Energy
+  Gasoline consumption
+    ktoe
+   Energy
+ Share of Renewable Energies
+in the final energy consumption
+in transit
+   %
+   Energy
+Share of Renewable Energies
+in the gross final consumption of energy
+  %
+   Energy
+  Share of Renewable Energy in Gross Final Energy Consumption
+    %
+   Food
+Consumption of fossil plastic in the food sector
+  T onnes
+   Food
+  Consumption of non- recyclable plastic in the food sector
+    T onnes
+   Food
+Food waste avoided through a circular consumption
+  T onnes
+   Resources, materials, waste
+  Consumption of secondary materials
+    T onnes
+   Resources, materials, waste
+Consumption of virgin materials
+  T onnes
+   Resources, materials, waste
+  Domestic Material Consumption (CDM)
+    t/inhabitant
+   Resources, materials, waste
+ Resource consumption chain (RMC)
+   Billion kg
+   Production
+and 2018
+consumption
+Production and
+Extremadura 2030. Green and Circular Economy Strategy
+   consumption 2030
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+   Production and
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+consumption 2030
+   Production
+and 2017
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+consumption
+Production
+and 2017
+consumption
+Production and consumption
+Production and consumption
+Roadmap towards the circular economy in Slovenia
+Galician Strategy of Circular Economy 2019-2030
+Galician Strategy of Circular Economy 2019-2030
+1st Roadmap Paris Circular Economy Plan
+            2019 Contatore ambientale
+2019 Contatore ambientale
+      Production
+and 2019
+consumption
+Production
+and 2018
+consumption
+Basque Country Circular Economy Strategy 2030
+Circular economy: what we want to know and can measure
+     THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+Production
+and 2019
+consumption
+Production
+and 2017
+consumption
+Production
+and 2018
+consumption
+Production
+and 2015
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+consumption
+Production
+and 2018
+consumption
+Production
+and 2017
+consumption
+Production
+and 2019
+consumption
+Production
+and 2018
+consumption
+Production
+and 2018
+consumption
+Contatore ambientale
+Towards a Model of Circular Economy for Italy - Overview and Strategic Framework
+Monitoring framework for the circular economy
+Resource wisdom roadmap
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+Monitoring framework for the circular economy
+Circular economy: what we want to know and can measure
+10 Key Indicators for Monitoring the Circular Economy
+Galician Strategy of Circular Economy 2019-2030
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+ 21
+    Water
+ Water consumption
+   million m3
+   Water
+ Water consumption
+   NA
+   Resources, materials, waste
+  EU self-sufficiency for raw materials
+    %
+   Resources, materials, waste
+Recyclable & non- renewable material burning
+  NA
+   Resources, materials, waste
+  Recyclable raw materials exports to non-EU countries
+    T onnes
+   Resources, materials, waste
+Recyclable raw materials Imports from non-EU countries
+  T onnes
+   Resources, materials, waste
+  Recyclable raw materials Intra EU trade
+    T onnes
+   Resources, materials, waste
+Self-sufficiency resources
+  kg extracted/kg DMI resource
+   Resources, materials, waste
+  Use of recycled raw materials in production processes
+    cyclical material use rate
+   Water
+Regenerated water used as a source of water supply
+  %
+   Water
+  Water extraction, direct
+    million m3
+   Land use
+ Land use, direct
+   % cultured land
+                                      THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+22 
+    Built environment
+ Reused materials and products from construction and demolition waste
+   % of construction and demolition waste generated
+   Built environment
+ Material collected in a workshop for the reuse of building materials
+   T onnes
+   Built environment
+  Materials reused in a workshop for the reuse of building materials
+    T onnes
+   Built environment
+Rate of compliance with the obligation to use at least 5% of recycled materials in construction contracts
+  Rate
+   Built environment
+  Recovery rate of construction waste as material
+    %
+   Energy
+ Percentage (%) of used lubricant oils collected and treated for energy recovery
+   %
+   Energy
+Energy saved by energy efficiency programmes in the following sectors: transport, industry, tertiary and residential
+  Tj
+   Energy
+  Energy savings
+    KWh/year
+   Resources, materials, waste
+Material flows per capita EXP
+  t/inhabitant
+   Resources, materials, waste
+  Material flows per capita IMP
+    t/inhabitant
+   Resources, materials, waste
+ Material savings
+   ktons
+   Production
+and 2019
+consumption
+Production
+and 2017
+consumption
+Production
+and 2017
+consumption
+Galician Strategy of Circular Economy 2019-2030
+1st Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+         Production
+and 2017 circular economy in Portugal: 2017-
+consumption
+Production
+and 2017
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+consumption
+Production
+and 2019
+Leading the transition [Action plan for 2020]
+Roadmap of the circular economy of North Karelia
+National Strategy for the Circular Economy
+National Strategy for the Circular Economy
+The Green and Circular Economy of Barcelona City Council
+Basque Country Circular Economy Strategy 2030
+Basque Country Circular Economy Strategy 2030
+                  consumption Savings
+Circular Amsterdam – A Vision and 2016 Action Agenda for the City and
+Metropolitan Area
+     THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+     Savings Use
+Use
+Use
+Use
+Use
+Use
+Use
+Water
+Drinking water savings
+m3/year 2019 2019
+2018
+2018
+2018
+ 23 The Green and Circular Economy of
+Barcelona City Council
+Monitoring framework for the circular economy
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+    Resources, materials, waste
+ Circular material use rate
+   %
+   Resources, materials, waste
+  Direct material use
+    Billion kg
+   Resources, materials, waste
+Direct resource use
+  Billion kg
+   Resources, materials, waste
+ Resource use, chain (RMI resource)
+   Billion kg
+   Resources, materials, waste
+ Amount of resources used and put back into the system
+   NA
+   Resources, materials, waste
+  Contribution of recycled materials to the demand for raw materials
+    NA
+   Resources, materials, waste
+ Environmental impact of the resources used and put back into the system
+   NA
+                       Use Waste Use Mobility
+Tons of waste biomass used
+Use of private vehicle in cities
+Tonnes %
+Towards a Model of Circular Economy 2017 for Italy - Overview and Strategic
+Framework
+Agenda for the Development of the 2019 Circular Economy in Navarra 2019-
+2030
+Towards a Model of Circular Economy 2017 for Italy - Overview and Strategic
+Framework
+2019 National Strategy for the Circular Economy
+2019 Galician Strategy of Circular Economy 2019-2030
+          Governance related indicators
+Governance indicators represent approximately one-third of the sample, with the sub-categories of awareness-raising, as well as innovation, pilots and experiments being those with the highest representation (14% each) (Table 3):
+ Awareness-raising indicators mainly refer to the number of awareness-raising campaigns and events organised for different areas (e.g. food waste reduction, plastic use reduction and water reuse). However, indicators account also for other ways of raising awareness and disseminating circular economy principles in the format of workshops, events, publications, guidelines and platforms.
+THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+24 
+ Regarding innovation, pilots and experiments, these indicators primarily include indicators related to the implementation of research and development (R&D) pilots and projects: e.g. the creation of an innovation platform for the circular economy, the number of experimental and pilot projects, the number of circular-economy-related R&D projects and the number of actors involved in experimental projects.
+ Strategy and initiatives (12%) indicators generally monitor the number of initiatives adopted (e.g. agro-ecological initiatives, projects incorporating smart design, green and circular initiatives and number of water reuse projects). Furthermore, they analyse the different circular initiatives adopted by local authorities, as well as the steps for their adoption, the level of implementation and the number of documents created.
+ Public procurement (11%): This category includes indicators linked to the inclusion of circular and green criteria in the purchasing of goods, services and works by governments. Several indicators account for the volume of public procurement that includes circular and/or ecological criteria (measured as a percentage of total procurement, number of tenders or total amount in euros). Other indicators address the number of identified legal barriers for the implementation of green public procurement (GPP), or the number of companies informed about circular-economy- related public procurement opportunities.
+ Capacity building (9%) indicators address the number of training courses on the circular economy, and the different activities to build knowledge of the circular economy. Indicators distinguish the training courses aimed at municipal staff (e.g. city staff trained in circular economy and circular procurement principles; and the number of training modules created for municipal staff). Other examples of this sub-category are: training courses and their level of implementation in the circular economy, conferences and seminars for improving skills, support programmes and guides.
+ Regulation (9%): Indicators within this category focus on the creation and update of the existing regulation to boost the circular economy and the identification and removal of identified regulatory barriers. Indicators not only focus on the results and achievements (e.g. new laws and updates to boost the circular economy; removed regulatory barriers the number of legislative obstacles identified and resolved laws and regulation for the adaptation of the private sector to the circular economy) but also on the entire process (e.g. number of working group meetings to work on better legislation and the number of circular policy advisers developing circular regulations).
+ Education (8%) indicators measure to what extend the circular economy is included in educational policies and curriculum. Examples of this sub-sector are: the number of students trained in the circular economy fields of activity; mainstreaming education for sustainable development into regional education policies; and the number of schools and universities that responded to the call for projects on circular economy education.
+ Stakeholder engagement (8%) indicators mainly focus on actions to engage with key actors involved in all phases of the circular economy initiative (design, implementation and monitoring). Some examples include: the number of the circular economy vision-forming meetings, the number of actors mobilised, the number of collaborative projects implemented by circular economy networks and the number of meetings for circular projects.
+ The inventory also collects indicators on collaboration (6%) activities, involving all actions related to co-operation among different actors (e.g. institutions) for synergies, projects and workshops to boost a circular economy. Indicators measure the way collaboration frameworks are built, by monitoring the number of meetings of working groups to boost the circular economy. Other indicators aim to measure the implementation of the collaboration frameworks such as the number of collaborative projects implemented, or the implementation of identified synergies.
+THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ Few indicators deal with the monitoring and evaluation (5%) of circular economy initiatives and actions (e.g. follow-up and monitoring of the results of circular economy programmes and studies of the establishment of charges and life-cycle and cost-benefit studies).
+ Financing (4%) indicators refer to all the economic support provided by governments to conduct a circular initiative (e.g. financial resources mobilised for experiments, the budget amount assigned to calls for projects and budget of pilot public contracts in the circular economy).
+Table 3. Governance indicators
+ 25
+     Subcategory
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Sector
+Indicator
+Unit
+Year Name of the Study
+2017 1st Roadmap Paris Circular Economy Plan
+2018 Circular economy: what we want to know and can measure
+2019 Galician Strategy of Circular Economy 2019-2030
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+2017 1st Roadmap Paris Circular Economy Plan
+2019 Agenda for the Development of the Circular Economy in Navarra 2019-2030
+    Built environment
+  Opening of a workshop for the reuse of building materials
+    YES/NO
+   Education and knowledge
+ Publications on the circular economy
+   Number
+   Education and knowledge
+ Number of users actively involved in a platform of good practices and relevant stakeholders
+   Number
+   Education and knowledge
+Awareness actions on
+search and innovation on the circular economy and their respective impact
+  Number
+   Food
+  Awareness campaigns to reduce food waste
+    Number
+   Food
+ Restaurants involved in wareness campaigns to reduce food waste
+   Number
+   Industry
+Number of events held in collaboration
+with the social entrepreneurship community
+  Number
+   Industry
+  Number of companies that publish sustainability reports
+    Number
+                          THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+26  Subcategory
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Sector
+Indicator
+Unit
+Year Name of the Study
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2018 Circular economy: what we want to know and can measure
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+         No sector specific
+ Number of international
+delegations and events hosted for the promotion of the circular economy
+   Number
+   No sector specific
+  Number of participating people on awareness raising activities
+    Number
+   No sector specific
+ Number of publications on actors of the circular and solidarity economy
+   Number
+   No sector specific
+Actions to divulge a long-term R&I agenda for speeding up the circular economy in the country
+  Number
+   No sector specific
+  No. of awareness-raising actions and their respective impact
+    Number
+   No sector specific
+ Awareness campaigns
+   Number
+   Public administartion
+ Creation of a municipal or regional web platform for information on the the circular economy
+   YES/NO
+   Public administartion
+ Level of traffic on the web platform for information on the the circular economy
+   NA
+   Resources, materials, waste
+ Number of awareness- raising activities carried out for plastic use reduction
+   Number
+   Resources, materials, waste
+ Number of awareness- raising activities for waste prevention carried out
+   Number
+                                THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 27
+     Subcategory
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Awareness raising
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Sector
+Indicator
+Unit
+Year Name of the Study
+2019 Galician Strategy of Circular Economy 2019-2030
+2017 1st Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2017 1st Roadmap Paris Circular Economy Plan
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2018 Extremadura 2030. Green and Circular Economy Strategy
+2019 Galician Strategy of Circular Economy 2019-2030
+2018 Circular economy: what we want to know and can measure
+2016 Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+    Resources, materials, waste
+ Awareness campaigns on marine litter
+   Number
+   Reuse, repair, share
+ Number of offers on and visitors to the platform for the sharing economy
+   Number
+   T extile
+  Conferences about circular and responsible fashion
+    Number
+   Water
+ Actions taken to disseminate water efficiency guides
+   Number
+   Water
+Awareness actions for water reuse and their respective impact
+  Number
+   Built environment
+  Operation of a workshop for the reuse of building materials
+    NA
+   Built environment
+Guides developed on
+greater efficiency and material productivity for the built environment
+  Number
+   Energy
+  Training courses in renewable energies
+    Number
+   Food
+ Training initiatives for local government staff on food waste reduction
+   Number
+                             No sector specific
+Training courses on the circular economy
+Number
+    No sector specific
+  People trained in the circular economy fields of activity
+    Number
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+28  Subcategory
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Capacity building
+Collaboration
+Collaboration
+Collaboration
+Sector
+Indicator
+Unit
+Year Name of the Study
+2016 Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+2017 1st Roadmap Paris Circular Economy Plan
+NA Circular Economy framework Monitoring report
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 Circular Economy Procurement implementation Plan and Framework
+2017 1st Roadmap Paris Circular Economy Plan
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+NA NA
+2017 1st Roadmap Paris Circular Economy Plan
+         No sector specific
+ Seminars organized on circular economy within the framework of the PREC (Programme Régional en Economie Circulaire )
+   Number
+   No sector specific
+  Number of start-ups supported by an innovation platform
+    Number
+   No sector specific
+ Level of implementation of Training plan on the circular economy
+   NA
+   Public administartion
+Number of conferences organized for training of municipal staff
+  Number
+   Public administartion
+ Number of training modules created for municipal staff
+   Number
+   Public administartion
+  Number of staff trained on the circular economy
+    Number
+   Public administartion
+Number of City staff trained on Circular Economy procurement principles
+  Number
+   Reuse, repair, share
+  Existence of a support programme and toolbox for the sharing economy
+    YES/NO
+                          No sector specific
+No. of partnerships with municipalities/distribution
+Number
+    No sector specific
+ Financial institutions willing to collaborate on a circular economy initiative
+   %
+   No sector specific
+  Implementation of an innovation platform for the circular economy
+    YES/NO
+        THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 29
+     Subcategory
+Collaboration
+Collaboration
+Collaboration
+Collaboration
+Collaboration
+Collaboration
+Collaboration
+Education
+Education
+Education
+Sector
+Indicator
+Unit
+Year Name of the Study
+2017 1st Roadmap Paris Circular Economy Plan
+Galician Strategy of Circular Economy 2019-2030
+NA NA
+2018 2nd Roadmap Paris Circular Economy Plan
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+Extremadura 2030. Green and Circular Economy Strategy
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+    No sector specific
+  Number of synergies identified / implemented by economic actors
+    Number
+   No sector specific
+Collaborative projects implemented by the Galician network of Circular Economy
+  Number
+   Public administartion
+  Institutions willing to collaborate on a circular economy initiative
+    %
+   Resources, materials, waste
+ Number of meetings of the commission to develop alternatives to single-use plastic
+   Number
+   Resources, materials, waste
+International agreements established for acceptance of by- product and materials with end-of-waste status and countries covered
+  Number
+   Reuse, repair, share
+  Number of meetings of a working group to boost sharing
+    Number
+   Reuse, repair, share
+Number of workshops held to to link up supply and demand and boost the sharing economy
+  Number
+   Energy
+  Students trained in renewable energies
+    Number
+   No sector specific
+ Online launch of the MOOC "implementation of the circular economy in a city".
+   YES/NO
+   No sector specific
+ Number of students who took the MOOC "implementation of the circular economy in a city".
+   Number
+      2019
+         2017
+         2018
+        THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+30  Subcategory
+Education
+Education
+Education
+Education
+Education
+Education
+Education
+Education
+Education
+Sector
+Indicator
+Unit
+Year Name of the Study
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+Agenda for the Development of the Circular Economy in Navarra 2019-2030
+Agenda for the Development of the Circular Economy in Navarra 2019-2030
+Agenda for the Development of the Circular Economy in Navarra 2019-2030
+Circular economy: what we want to know and can measure
+         No sector specific
+ Number of schools and universities that responded to the call for projects on the circular economy education
+   Number
+   No sector specific
+ Meeting time of the working group for the creation of a pedagogical toolbox for the circular economy
+   NA
+   No sector specific
+  Creation of the booklet and action sheets on the circular economy
+    YES/NO
+   No sector specific
+ Number of children reached by pedagogical circular economy activities
+   Number
+   No sector specific
+ Number of events organised in relation with pedagogical circular economy activities
+   Number
+   No sector specific
+Mainstreaming education for sustainable development into regional education policies
+  NA
+   No sector specific
+ Mainstreaming education for sustainable development into the curriculum
+   NA
+   No sector specific
+  Inclusion of education for sustainable development in teacher training
+    NA
+   No sector specific
+ Circular economy researchers
+   Number
+                  2019
+2019
+2019
+2018
+           THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 31
+     Subcategory
+Education
+Financing
+Financing
+Financing
+Financing
+Financing
+Financing
+Financing
+Innovation, pilots and experiments
+Sector
+Indicator
+Unit
+Year Name of the Study
+    No sector specific
+  Students trained in the circular economy fields of activity
+    Number
+   Built environment
+ Financial resources mobilised for experiments on the building sector
+   NA
+   No sector specific
+Companies benefiting from public grants for the creation of new circular business models.
+  Number
+   No sector specific
+ Companies that have received financial assistance related to the circular economy
+   Number
+   No sector specific
+  Financial assistance granted to companies related to the circular economy
+    Number
+   No sector specific
+Budget amount assigned to calls for projects/living labs carried out/implemented and number of companies that have benefited from them.
+  NA
+   No sector specific
+  Number and investment in circular-economy- related R&I projects
+    Number
+   No sector specific
+Budget of pilot public contracts in circular economy developed in the Brussels-Capital Region
+  Number
+   Built environment
+  Capitalisation of experiments on the building sector
+    NA
+   Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+2017 1st Roadmap Paris Circular Economy Plan
+Galician Strategy of Circular Economy 2019-2030
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+2017 1st Roadmap Paris Circular Economy Plan
+2016
+      2019
+2016
+2016
+2016
+2017
+2016
+                    THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+32  Subcategory
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Sector
+Indicator
+Unit Year
+2017
+2017
+2017
+2017
+2017
+2018
+2018
+2018
+2018
+Name of the Study
+1st Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2nd Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+         Built environment
+ Duration of experiments on the building sector
+   NA
+   Built environment
+  Number of experimental projects on the building sector
+    Number
+   Built environment
+Resources exchanged in experimental areas for the recovery and reuse of building materials
+  T onnes
+   Built environment
+  Initiatives on reuse for the building sector
+    Number
+   Built environment
+Protocols developed to incentivise reuse of components, recovered or recycled materials, development and/or use of material passports, promotion of the use of “empty” built space
+  Number
+   Culture
+ Creation of the working group to identify pilot actions to be implemented in the cultural sector
+   YES/NO
+   Culture
+  Identification of pilot operations in the cultural sector
+    YES/NO
+   Culture
+ Collected materials and objects in pilot projects within cultural facilities of the city
+   T onnes
+   Culture
+ Reused materials and objects in pilot projects within cultural facilities of the city
+   Tonnes
+                             THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 33
+     Subcategory
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Sector
+Indicator
+Unit Year
+Name of the Study
+    No sector specific
+ Number of actors involved in experimental projects
+   Number
+   No sector specific
+  Number of experimental projects initiated
+    Number
+   No sector specific
+Number of pilot projects initiated for the development of territorial synergies between economic actors
+  Number
+   No sector specific
+ Launch and completion of feasibility studies for a Re-manufacturing in Paris cluster
+   YES/NO
+   No sector specific
+  Patents (technology, product design)
+    Number
+   No sector specific
+Patent requests in relation to new sustainable processes presented by public bodies (research centres, universities and public bodies) and companies.
+  Number
+   No sector specific
+ Definition of criteria to accredit knowledge- intensive service providers specialized in circular economy.
+   YES/NO
+   No sector specific
+ Accredited Knowledge Intensive Service Providers specialized in circular economy
+   Number
+   No sector specific
+  Transferring the pilot experiences of the programme for the adoption of good
+    NA
+   2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+Circular economy: what we want to know and can measure
+Galician Strategy of Circular Economy 2019-2030
+Galician Strategy of Circular Economy 2019-2030
+Galician Strategy of Circular Economy 2019-2030
+Galician Strategy of Circular Economy 2019-2030
+            2018
+2019
+2019
+2019
+2019
+              THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+34  Subcategory
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Innovation, pilots and experiments
+Monitoring and evaluation
+Monitoring and evaluation
+Monitoring and evaluation
+Monitoring and evaluation
+Monitoring and evaluation
+Sector
+Indicator
+practices to the different sectors
+Unit Year
+2018
+2018
+2016
+2019
+2019
+2018
+2019
+2019
+2013
+Name of the Study
+Extremadura 2030. Green and Circular Economy Strategy
+Extremadura 2030. Green and Circular Economy Strategy
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Monitoring framework for the circular economy
+Galician Strategy of Circular Economy 2019-2030
+Extremadura 2030. Green and Circular Economy Strategy
+Galician Strategy of Circular Economy 2019-2030
+Galician Strategy of Circular Economy 2019-2030
+Programa de Reciclaje Inclusivo
+              No sector specific
+  Experiences registered (green economy and circular economy)
+    Number
+   No sector specific
+Increase in the number of projects that contribute to the implementation of innovative and sustainable initiatives
+  Number
+   No sector specific
+  Pilot cases implemented via calls for projects/living lab
+    Number
+   Resources, materials, waste
+ Number of patents related to recycling and secondary raw materials
+   Number
+   Built environment
+Products and construction techniques covered by life cycle analysis studies
+  Number
+   Resources, materials, waste
+ Maps of local resources
+   Number
+   Resources, materials, waste
+  Life cycle and cost- benefit studies in waste management
+    Number
+   Waste
+Study of the establishment of waste disposal charges or other types of financial instruments
+  YES/NO
+   Waste
+  Follow-up and monitoring of the results of an Inclusive Recycling Program
+    NA
+                             THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 35
+     Subcategory
+Monitoring and evaluation
+Other
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Sector
+No sector specific
+Indicator
+Ecolabel Holders
+Unit
+Number
+Year Name of the Study
+2013 Programa de Reciclaje Inclusivo
+2017 10 Key Indicators for Monitoring the Circular Economy
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2019 Agenda for the Development of the Circular Economy in Navarra 2019-2030
+2018 Circular Economy Procurement implementation Plan and Framework
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+NA Circular Economy framework Monitoring report
+    Waste
+  Tracking the sale of materials from an Inclusive Recycling Program
+    NA
+         Built environment
+ Products/services covered by circularity criteria in the public procurement
+   Number
+   Built environment
+  Good practices on public procurement identified and disseminated
+    Number
+   No sector specific
+Share of public procurement contracts that include environmental elements above the EU thresholds
+  %
+   No sector specific
+  Number of City contracts evaluated using Circular Economy principles
+    Number
+   No sector specific
+Public procurement contracts that plan for end-of-life recovery
+  %
+   No sector specific
+  Public procurement contracts with a circular economy dimension
+    %
+   No sector specific
+ Public procurement contracts with an environmental clause and/or criteria
+   %
+   No sector specific
+ Number of tender books with circular criteria (production and consumption)
+   Number
+                          THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+36  Subcategory
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Public procurement
+Regulation
+Sector
+Indicator
+Unit
+Year Name of the Study
+2018 Circular economy: what we want to know and can measure
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+2018 Monitoring framework for the circular economy
+NA NA
+2016 Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+2016 Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+2017 1st Roadmap Paris Circular Economy Plan
+         No sector specific
+ Market volume of public circular procurement
+   NA
+   No sector specific
+  Identified legal barriers for the Green Public Procurement
+    Number
+   No sector specific
+Public procurement procedures including ecological and circular criteria
+  %
+   No sector specific
+  Purchases of products that are reusable or include recycled material.
+    EUR
+   No sector specific
+ Circular Public Procurement over the total of Innovative Public Procurement
+   %
+                 No sector specific
+No sector specific
+Green public procurement
+Circular procurement
+%
+% of total
+         No sector specific
+  Pilot public contracts in circular economy developed in the Brussels-Capital Region
+    Number
+   No sector specific
+Companies informed/aware of Brussels public procurement opportunities
+  Number
+   Resources, materials, waste
+ Public procurement contracts involving eco- materials
+   %
+   No sector specific
+  Number of circular policy advisers developing circular regulations and
+    Number
+            2018
+Circular economy: what we want to know and can measure
+  THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 37
+     Subcategory
+Regulation
+Regulation
+Regulation
+Regulation
+Regulation
+Regulation
+Regulation
+Regulation
+Sector
+Indicator
+change ‘linear’ regulations
+Unit
+Year Name of the Study
+         No sector specific
+ Number of circular
+advisers in branch organisations developing circular regulations and change ‘linear’ regulations
+   Number
+   No sector specific
+  Policy process for new circular laws and regulations
+    NA
+   2018
+2018
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+     No sector specific
+Negotiations for circular standards
+NA
+2018 Circular economy: what we want to know and can measure
+    No sector specific
+ Development of new laws and regulations that discourage linear practices
+   NA
+   No sector specific
+  Legal and regulatory barriers to the circular economy removed
+    Number
+   No sector specific
+New laws and regulations that discourage linear practices (e.g. resource tax, public circular procurement, resource passport)
+  Number
+   No sector specific
+ Working group meetings with major industry players for better regulatory and legislative alignment as a boost to the circular economy
+   Number
+   No sector specific
+  Directives adopted for research and innovation on the circular economy
+    Number
+   2018
+2018
+2018
+2019
+2017
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+Circular economy: what we want to know and can measure
+Galician Strategy of Circular Economy 2019-2030
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+              THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+38  Subcategory
+Regulation
+Regulation
+Regulation
+Regulation
+Regulation
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Sector
+Indicator
+Unit
+Year Name of the Study
+         No sector specific
+ Legislative and normative obstacles identified and resolved
+   Number
+   No sector specific
+ Legislative and normative incentives created
+   Number
+   Resources, materials, waste
+  Updates to the waste law in the region
+    Number
+   Waste
+New types of waste classified as byproducts and with end-of-waste status
+  Number
+   Water
+  Directives adopted to improve water efficiency and water reuse
+    Number
+   No sector specific
+Number of economic actors mobilised for the development of territorial synergies between economic actors
+  Number
+   No sector specific
+  Number of economic actors mobilised in an innovation platform for the circular economy
+    Number
+   2016
+2016
+2019
+2017
+2017
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Galician Strategy of Circular Economy 2019-2030
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+                    No sector specific
+No sector specific
+Network meetings for circular projects
+Circular economy vision- forming meetings
+Number Number
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2018 Circular economy: what we want to know and can measure
+2018 Circular economy: what we want to know and can measure
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+         No sector specific
+ Number of members belonging to the Galician network of Circular Economy
+   Number
+   No sector specific
+  Community-driven associations
+    Number
+        THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 39
+     Subcategory
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Stakeholder engagement
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Sector
+Reuse, repair, share
+Indicator
+Number of participants at Repair Cafés
+Unit
+Year Name of the Study
+2019 Galician Strategy of Circular Economy 2019-2030
+2018 2nd Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2019 Galician Strategy of Circular Economy 2019-2030
+2018 2nd Roadmap Paris Circular Economy Plan
+2013 Programa de Reciclaje Inclusivo
+2018 Extremadura 2030. Green and Circular Economy Strategy
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2017 Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2018 Extremadura 2030. Green and Circular Economy Strategy
+2018 2nd Roadmap Paris Circular Economy Plan
+    No sector specific
+  Number of people using community services
+    Number
+   Resources, materials, waste
+ Participants enrolled in the different programs for waste prevention
+   Number
+        Number
+    Reuse, repair, share
+  Participants in laboratory of ideas
+    Number
+   T extile
+Number of stakeholders signing a joint commitment for an ethical, social and circular fashion
+  Number
+   Waste
+  Citizen participation in an Inclusive Recycling Program
+    NA
+           Agriculture
+Built environment
+Agro-ecological initiatives (municipal)
+Projects incorporating smart design
+Number
+Number
+    Built environment
+  Voluntary agreements signed reuse of building components and sectors covered
+    Number
+         Culture
+  Increase in initiatives to enhance the cultural and natural heritage
+    Number
+   Energy
+ Number of projects implemented for the valorisation of energy and recovered water resources
+   Number
+        THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+40  Subcategory
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Sector
+Indicator
+Unit
+Year Name of the Study
+2017 1st Roadmap Paris Circular Economy Plan
+2017 10 Key Indicators for Monitoring the Circular Economy
+2017 10 Key Indicators for Monitoring the Circular Economy
+2018 Circular economy: what we want to know and can measure
+2018 Circular economy: what we want to know and can measure
+NA Circular Economy framework Monitoring report
+2018 Circular economy: what we want to know and can measure
+2018 Extremadura 2030. Green and Circular Economy Strategy
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 National Strategy for the Circular Economy
+         Food
+  Number of food recovery-redistribution actions
+    Number
+   Industry
+Number of industrial and territorial ecology projects
+  Number
+   Mobility
+  Car-sharing
+    Frequency of car- sharing
+           No sector specific
+Circular innovation projects
+Number
+    No sector specific
+ Circular projects in total number of innovation projects
+   %
+   No sector specific
+  Level of implementation of Environmental Action Plan
+    NA
+        No sector specific
+Circular economy vision documents
+Number
+    No sector specific
+ Increase in initiatives for a green and circular economy, in terms of renewable energies, sustainable mobility and energy efficiency, distinguishing between companies, administrations and households
+   Number
+   Resources, materials, waste
+  Measures in the distribution industry to reduce waste
+    Number
+   Resources, materials, waste
+ Number of innovative projects for the use of residual biomass.
+   Number
+           THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 41
+     Subcategory
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Strategy and initiatives
+Sector
+Indicator
+Unit
+Year Name of the Study
+2019 National Strategy for the Circular Economy
+2017 1st Roadmap Paris Circular Economy Plan
+2019 Galician Strategy of Circular Economy 2019-2030
+NA Circular Economy framework Monitoring report
+2019 National Strategy for the Circular Economy
+    Resources, materials, waste
+  Adequate environmental management of plastic packaging waste
+    NA
+   Reuse, repair, share
+ Number of projects realised through a platform for the sharing economy
+   Number
+   Reuse, repair, share
+ Laboratory of ideas and collective projects related to the "maker" movement
+   Number
+           Waste
+Level of implmentation of Biowaste strategy
+NA
+    Water
+  Total number of approved water reuse projects / year
+    Number
+     Economy and business indicators
+Economy and business indicators specifically tailored to the circular economy represent 14% of the share and include 8 specific sub-indicators (Table 4):
+ The sub-category of business (30%) encompasses those indicators that specifically refer to the performance of companies and the introduction of business models such as new revenue models related to the circular economy and the number of companies implementing product-as-a-service business models.
+ The sub-category indicator of investments (16%) covers the public and private investment in R&D, goods and projects related to the circular economy. Some examples include: public expenditure on R&D related to the circular economy and the amount invested in circular economy projects.
+ Savings (12%) measures all financial resources saved in certain circular actions (e.g. money saved, in comparison with purchasing new) through the reuse of building materials; reduced costs through the implementation of green procurement; and the economic savings due to the reuse of furniture of the local administration and waste reduction.
+ Productivity (12%) measures the amount of economic output generated per unit of material.
+ Added value (11%) incorporates indicators related to the value generation created by the circular economy and circular activities (e.g. the economic value of the resources used and gross value added [GVA] generated).
+ Economic efficiency (8%) includes materials and energy intensity, measured in monetary terms.
+ Gains and revenues (6%) measure revenues obtained through performing actions closely related to the circular economy (e.g. turnover on circular products and economic gains of the reduction of the digital impact in the public administration).
+THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+42 
+ Economic structure (5%) includes indicators such as the weight of the green economy in gross
+domestic product (GDP) and GDP per total greenhouse gas (GHG) emissions.
+Table 4. Economy and business related indicators
+     Subcategory
+Added value Added value
+Added value
+Added value
+Added value
+Added value
+Added value
+Business
+Sector
+No sector specific
+No sector specific
+Indicator
+Net added value of the circular economy
+Economic value generated
+Unit Year
+EUR 2016 NA 2018
+2017
+2018
+EUR 2017
+2019
+2017
+2019
+Name of the Study
+Circular Amsterdam – A Vision and Action Agenda for the City and Metropolitan Area
+Circular Bilbao and Bizkaia
+Paris Circular Economy Plan: 2017-2020
+Circular economy: what we want to know and can measure
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+Monitoring framework for the circular economy
+Towards a Model of Circular Economy for Italy - Overview and Strategic Framework
+Galician Strategy of Circular Economy 2019-2030
+              No sector specific
+  Value creation (€) thanks to the growth of circular economy models
+    EUR
+   No sector specific
+ Added value of the circular economy
+   billion EUR (2010 price level)
+        No sector specific
+Gross value added generated
+    No sector specific
+ Value added at factor cost
+   percentag e of gross domestic product (GDP) at current prices
+   Resources, materials, waste
+  Economic value of the resources used and the value at the time they are reintroduced into the system
+    NA
+   Built environment
+ Turnover of construction companies with Eco- labelling that prioritises the use of sustainable local raw materials adapted to the requirements of the Circular Economy.
+   % of total sector
+           THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 43
+     Subcategory
+Business
+Business
+Business
+Business
+Business
+Business
+Business
+Business
+Business Business
+Sector
+Indicator
+Unit
+Year Name of the Study
+    Built environment
+  Number of companies with certification based on life cycle or eco- design
+    Number
+   Industry
+ Companies implementing product- as-a-service business models
+   Number
+   Industry
+ Improvement of the competitive positioning of the entire business fabric in the green and circular economy
+   NA
+   Industry
+Increase in the number of enterprises and productivity, by productive subsectors of the green and circular economy
+  Number
+   Industry
+ Number of companies or products with tax benefits to incentivise the circular economy
+   Number
+   Industry
+ Circular business
+   % of total
+   Industry
+ Circular companies by total number of companies
+   Number
+   Industry
+  Economic operators supported in circular economies
+    Number
+   Industry
+ Economic operators aware of the circular economy
+   Number
+   2019
+2019
+2018
+2018
+2017
+Galician Strategy of Circular Economy 2019-2030
+Galician Strategy of Circular Economy 2019-2030
+Extremadura 2030. Green and Circular Economy Strategy
+Extremadura 2030. Green and Circular Economy Strategy
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+               Measuring the Circular Economy 2018 Developing an indicator set for Opportunity
+Peterborough NA NA
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+Circular economy: what we want to know and can measure
+      2016
+     Industry
+Circular start-ups
+2016 Number 2018
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+44  Subcategory
+Business
+Business
+Business
+Business business Business
+Business
+Business
+Business
+Economic efficiency
+Sector
+Indicator
+Unit
+Year
+2019
+2018
+2018
+2018
+2019
+2017
+2018
+2018
+2019
+2018
+Name of the Study
+Agenda for the Development of the Circular Economy in Navarra 2019-2030
+Extremadura 2030. Green and Circular Economy Strategy
+Extremadura 2030. Green and Circular Economy Strategy
+Circular economy: what we want to know and can measure
+Galician Strategy of Circular Economy 2019-2030
+1st Roadmap Paris Circular Economy Plan
+Extremadura 2030. Green and Circular Economy Strategy
+2nd Roadmap Paris Circular Economy Plan
+National Strategy for the Circular Economy
+Extremadura 2030. Green and Circular Economy Strategy
+         Industry
+  Percentage of companies innovating for circular reasons
+    %
+   No sector specific
+Improvement of the strategic positioning of the territory and its green economy in the global market
+  NA
+   No sector specific
+ Increase in the number of green and circular projects contributing to economic diversification
+   Number
+   No sector specific
+  New revenue models related to the circular economy
+    Number
+              Reuse, repair, share
+Business activities involved in repair
+Number
+    T extile
+  Opening of repair workshops on several easy-to-access sites
+    YES/NO
+   T ourism
+Increase in the number of tourism enterprises and in the productivity of the sustainable tourism sector
+  Number
+   Waste
+  Number of businesses that have adopted locally standardized containers
+    Number
+   Waste
+ Number of waste streams or subcategories of regulated electronic appliances under the responsibility extended to the producer.
+   Number
+              Energy
+Energy intensity (final)
+toe/Million EUR
+     THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+Subcategory
+Economic efficiency
+Economic efficiency
+Economic efficiency
+Economic efficiency
+Economic efficiency
+Economic efficiency
+Economic structure
+Economic structure
+Gains and revenues
+Gains and revenues
+Gains and revenues
+Gains and revenues
+Sector
+Energy
+No sector specific
+Indicator
+Energy intensity (primary)
+Material intensity
+Unit
+toe/Million EUR
+Kg/EUR
+Year Name of the Study
+2018 Extremadura 2030. Green and Circular Economy Strategy
+2018 Circular Bilbao and Bizkaia
+2017 10 Key Indicators for Monitoring the Circular Economy
+2019 Monitoring framework for the circular economy
+2019 Basque Country Circular Economy Strategy 2030
+2018 Circular economy: what we want to know and can measure
+2018 Roadmap towards the circular economy in Slovenia
+2015 Promoting the Green and Circular Economy in Catalonia
+2019 Agenda for the Development of the Circular Economy in Navarra 2019-2030
+2019 Basque Country Circular Economy Strategy 2030
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+ 45
+                   Resources, materials, waste
+ Domestic Material Consumption per capita
+   EUR/kg
+   Resources, materials, waste
+  Generation of waste excluding major mineral wastes per GDP unit
+    Kg/Thous and EUR
+   Resources, materials, waste
+ Total amount of waste generated, excluding the main mining waste, per unit of GDP in thousands of euros
+   Kg/Thous and EUR
+           No sector specific
+No sector specific
+Economic growth of the circular economy
+Weight of the green economy in GDP
+% GDP
+NA
+    No sector specific
+  GDP per Total Greenhouse Gas Emissions
+    PPP/kg CO2 equivalent
+         Food
+ Sales of organic products and local food products
+   NA
+   Industry
+  Industry turnover in more circular products
+    Thousand million EUR
+   Public administartion
+ Economic gains of the reduction of the digital impact in the local administration
+   NA
+   Reuse, repair, share
+ Euros recovered through the donation and reselling scheme to the city
+   EUR
+              THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+46  Subcategory
+Investments
+Investments
+Investments
+Investments
+Investments
+Investments
+Investments Investments Investments
+Investments
+Productivity
+Sector
+Public administartion
+Indicator
+Public expenditure on R&D related to EC
+Unit Year
+2017 NA 2019 2018
+2018
+2017
+2019
+Thousand 2018 EUR
+% 2019
+Thousand 2018 EUR
+2019
+NA 2018
+Name of the Study
+10 Key Indicators for Monitoring the Circular Economy
+Agenda for the Development of the Circular Economy in Navarra 2019-2030
+Circular economy: what we want to know and can measure
+Extremadura 2030. Green and Circular Economy Strategy
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+Monitoring framework for the circular economy
+Extremadura 2030. Green and Circular Economy Strategy
+Galician Strategy of Circular Economy 2019-2030
+Extremadura 2030. Green and Circular Economy Strategy
+Galician Strategy of Circular Economy 2019-2030
+Circular Economy Procurement implementation Plan and Framework
+         Reuse, repair, share
+  Household spending on product repair and maintenance
+    EUR/capit a/year
+         Education
+  Investment in research for increasing circular knowledge and expertise
+    EUR
+   Food
+Impact on the primary sector of investments in the processing and marketing of local agricultural products for healthy eating and responsible consumption
+  NA
+   No sector specific
+  Amount invested in circular economy projects
+    NA
+   No sector specific
+ Gross investment in tangible goods
+   percentag e of gross domestic product (GDP) at current prices
+              No sector specific
+No sector specific
+Public administartion
+No sector specific
+Private investment
+Investment in R&D over the GDP
+Public investment
+Degree of productivity
+              Water
+  Funding to enhance the implementation of projects for the reuse of regenerated water from wastewater
+    EUR
+          THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+Subcategory
+Productivity
+Productivity
+Productivity
+Productivity
+Productivity Productivity
+Savings
+Savings
+Savings
+Savings
+Savings
+Sector
+Indicator
+Unit
+Year Name of the Study
+ 47
+         Resources, materials, waste
+ Resource Productivity
+   EUR/kg
+   Resources, materials, waste
+ Material Productivity
+   EUR GDP/kg DMC
+   Resources, materials, waste
+  Material Productivity
+    PPP/kg
+   Resources, materials, waste
+Material Productivity
+  EUR/kg
+   Resources, materials, waste
+  Efficiency in resource productivity
+    NA
+   2017
+2018
+2017
+2019
+10 Key Indicators for Monitoring the Circular Economy
+Circular economy: what we want to know and can measure
+Roadmap towards the circular economy in Slovenia
+Basque Country Circular Economy Strategy 2030
+            Water
+Water productivity
+USD
+2015
+2019 National Strategy for the Circular Economy
+Promoting the Green and Circular Economy in Catalonia
+      Built environment
+ Money saved (in
+comparison with purchasing new) thorugh the reuse of building materials
+   NA
+   Education
+  Saving per student on the price of a basket of school books for each school year
+    NA
+   2017 1st Roadmap Paris Circular Economy Plan
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+   2017
+  No sector specific
+Cost savings
+NA
+2018 Circular Economy Procurement implementation Plan and Framework
+    Public administartion
+  Reduced costs through green public procurement vs. the traditional option
+    NA
+   Public administartion
+ Economic savings due to the reuse of furniture and equipment of the local administration
+   EUR
+   Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2018 2nd Roadmap Paris Circular Economy Plan
+2017
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+48  Subcategory
+Savings
+Savings
+Savings
+Sector
+Indicator
+Unit Year
+2018
+2017
+2017
+Name of the Study
+Circular Economy Procurement implementation Plan and Framework
+1st Roadmap Paris Circular Economy Plan
+1st Roadmap Paris Circular Economy Plan
+         Resources, materials, waste
+  Waste reduction economic savings
+    NA
+   Reuse, repair, share
+Money saved as a consequence of recovery and reuse of materials
+  EUR
+   T extile
+  Savings made by not replacing items of clothing
+    NA
+           Infrastructure and technology indicators
+Infrastructure and technology indicators correspond to 8% of the inventory (Table 5). Facilities (61%) includes all indicators linked to centres mainly dedicated to reuse, repair and share activities. Some examples include: the number of reuse centres in the city; the number of repair cafés; the number of donation and sharing spaces; and the number of repair and reuse centres created. The area sub-category (18%) aims to measure the space within cities that have adopted any kind of circular initiative or criteria. Examples include the share of the city covered by experimental areas, the districts incorporating circular economy principles and the public space recovered for sustainable models. The primary measurement unit for this sub-category is the share of space in terms of total local space. Equipment (13%) covers all the devices and bins installed in cities for sustainable waste management (e.g. number of bins allocated, water dispensers installed in the city and waste collection devices). Finally, the remaining indicators address products and services (8%) (e.g. new circular products and share of circular products in the total number).
+Table 5. Infrastructure and technology indicators
+     Subcategory
+Area Area
+Area
+Sector
+Indicator
+Unit
+Year Name of the Study
+2017 1st Roadmap Paris Circular Economy Plan
+    Food
+ Number of food processing areas (kitchens, vegetable processing workshops)
+   Number
+   Land use
+  Area of public space recovered for sustainable models
+    ha/year
+   Land use
+ New districts incorporating the principles of the circular economy
+   Number
+      2019
+2016
+The Green and Circular Economy of Barcelona City Council
+   Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+  THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+Subcategory
+Area
+Area Area Area
+Area
+Area
+Area
+Area
+Area Area
+Area
+Area
+Sector
+Reuse, repair, share
+Reuse, repair, share
+Indicator
+Number of reuse centres in the city
+Objects collected in reuse centres
+Unit Year
+Name of the Study
+ 49
+         Reuse, repair, share
+  Number of recycling centres organised to supply repair actors
+    Number
+   2017 1st Roadmap Paris Circular Economy Plan
+  Number 2017 T onnes 2017
+1st Roadmap Paris Circular Economy Plan 1st Roadmap Paris Circular Economy Plan
+         Reuse, repair, share
+ Amount of positive externalities from the installed spaces for the sharing economy and donation
+   NA
+   Reuse, repair, share
+ Number of collection points for reuse of materials
+   Number
+   Reuse, repair, share
+ Number of waste disposal sites with a reuse area.
+   Number
+   Reuse, repair, share
+  Preparation for reuse
+    %
+   Reuse, repair, share
+ Collaborative spaces equipped with material and equipment to encourage repair
+   Number
+   2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+Spanish Strategy for Circular Economy: España Circular 2030
+Galician Strategy of Circular Economy 2019-2030
+Number 2017
+2017 1st Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+         2020
+2019
+     Reuse, repair, share
+Number of places devoted to repair
+1st Roadmap Paris Circular Economy Plan
+    Reuse, repair, share
+  Number of Repair Cafés organised per year and per arrondissement
+    Number
+   Reuse, repair, share
+ Mapping of existing sites for reuse and recycling and needs
+   YES/NO
+   Reuse, repair, share
+ Ratio of shops offering repair services to total number of shops
+   Ratio
+         2017
+  THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+50  Subcategory
+Area
+Area
+Area Area
+Area
+Area
+Certificates
+Certificates Design Design
+Equipment
+Equipment
+Sector
+Reuse, repair, share
+Indicator
+Repair and reuse centers created
+Unit
+Year Name of the Study
+         Reuse, repair, share
+  Repair cafés and/or local actions realised
+    Number
+   Reuse, repair, share
+ Number of donation and sharing spaces in the city
+   Number
+   Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+2018 2nd Roadmap Paris Circular Economy Plan
+2019 Galician Strategy of Circular Economy 2019-2030
+2017 1st Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2018 Extremadura 2030. Green and Circular Economy Strategy
+2017
+     Number
+    T extile
+ Setting up of collection of old occupational clothing points accessible to all members of staff concerned
+   YES/NO
+   T extile
+  Number of ethical and eco-responsible fashion sales points in the city
+    Number
+        Waste
+Local composting plants created
+Construction works with circular design (%).
+Number
+    Built environment
+  Products and services with any kind of eco- label
+    Number
+   Food
+ Number of restaurants with the ZERO plastic label
+   Number
+   Galician Strategy of Circular Economy 2019-2030
+2018 2nd Roadmap Paris Circular Economy Plan
+2019 Galician Strategy of Circular Economy 2019-2030
+2019
+     Built environment
+%
+    Built environment
+  Eco-designed products and services included in the regional catalogue
+    Number
+   Resources, materials, waste
+Number of bento boxes distributed to reduce disposable packaging use
+  Number
+   Resources, materials, waste
+  Number of mug-sensor coffee machines and
+    Number
+   Galician Strategy of Circular Economy 2019-2030
+2017 1st Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+2019
+        THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 51
+     Subcategory
+Equipment
+Equipment Facilities Facilities
+Facilities
+Facilities Facilities Facilities
+Facilities
+Materials reuse
+Organic production
+Products
+Sector
+Waste Agriculture Land use
+Land use
+Land use
+No sector specific
+Indicator
+water dispensers installed in the city
+Change in the amount of bins allocated
+Seed banks (municipal)
+Land banks created (municipal)
+Empty houses
+Properties declared in ruin
+Facilities with circular economy criteria
+Unit
+NA
+Number 2018
+Year Name of the Study
+2018 2nd Roadmap Paris Circular Economy Plan 2018 2nd Roadmap Paris Circular Economy Plan
+Extremadura 2030. Green and Circular Economy Strategy
+         Resources, materials, waste
+  Number of waste collection devices installed
+    Number
+               Number
+2018 Extremadura 2030. Green and Circular Economy Strategy
+    Land use
+  Increase or improvement of cultural, technological, welfare and healthy and quality leisure facilities and services
+    NA
+   2018
+Extremadura 2030. Green and Circular Economy Strategy
+Galician Strategy of Circular Economy 2019-2030
+  Number 2019
+     Number Number
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+         No sector specific
+ Sectors/facilities assessed as subject to IAC (Integrated Environmental Assessment)
+   Number
+   Built environment
+  Construction works with a minimum level of materials reuse (%).
+    %
+   Food
+ Percentage of cultivated area under organic production
+   %
+   Galician Strategy of Circular Economy 2019-2030
+2019 Galician Strategy of Circular Economy 2019-2030
+2019 Agenda for the Development of the Circular Economy in Navarra 2019-2030
+2019
+        Production
+New circular products
+Number 2018
+Circular economy: what we want to know and can measure
+     THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+52  Subcategory
+Products
+Testing
+Testing
+Sector
+Indicator
+Unit Year
+2018
+2017
+2018
+Name of the Study
+Circular economy: what we want to know and can measure
+1st Roadmap Paris Circular Economy Plan
+2nd Roadmap Paris Circular Economy Plan
+         Production
+  Share of circular products in total number of products
+    %
+   Built environment
+Percentage of Paris’ territory covered by experimental areas for the recovery and reuse of building materials
+  %
+   Resources, materials, waste
+  Number of collection devices tested
+    Number
+           Societal indicators
+Indicators related to jobs represent 5% of the sample (Table 6). These indicators mainly relate to employment and human resources. Indicators distinguish between employment within circular economy generic activities and job creation in specific circular economy sectors such as the sharing economy, the reuse and repair sector and the forestry sector. Most indicators specifically relate to jobs and some examples include: the number of green jobs created and secured, the net circular job growth, and the number of jobseekers having been employed as a result of circular economy training. A few indicators also refer to human resources: human resources mobilised for experiments in the building sector; the number of people actively working on the development of a circular vision; and the number of local co-ordinators recruited for the development of territorial synergies.
+Table 6. Societal indicators
+     Subcategory
+Jobs and human resources
+Jobs and human resources
+Sector
+Indicator
+Unit Year
+2017
+2017
+Name of the Study
+1st Roadmap Paris Circular Economy Plan
+Leading the transition [Action plan for circular economy in Portugal: 2017-2020]
+   Built environment
+  Human resources mobilised for experiments on the building sector
+   NA
+  Education and knowledge
+   PhD and post-PhD grants and contracts in
+    Number
+        THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 53
+     Subcategory
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Sector
+Indicator
+scientific employment
+Unit
+Year Name of the Study
+        Education and knowledge
+  Jobseekers who have been employed as a result of training developed under the PREC (Programme Régional en Economie Circulaire)
+   Number
+  Forest
+  Direct jobs associated with the forest/wood sector
+   Number
+  No sector specific
+   Employment in the Circular Economy
+    Number
+  No sector specific
+ Number of local coordinators recruited for the development of territorial synergies between economic actors
+  Number
+  No sector specific
+   Number of jobs created by promoting circular consumption in the city
+    Number
+   Regional Programme for the Circular Economy 2016 – 2020 (PREC)
+2019 Galician Strategy of Circular Economy 2019-2030
+2017 10 Key Indicators for Monitoring the Circular Economy
+2017 1st Roadmap Paris Circular Economy Plan
+2017 1st Roadmap Paris Circular Economy Plan
+2016
+              THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+54  Subcategory
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Sector
+Indicator
+Unit
+Year Name of the Study
+        No sector specific
+  Green jobs
+   Number
+  No sector specific
+   Net circular job growth
+    Number in FTE
+  No sector specific
+  Jobs
+   Number
+  No sector specific
+ Number of
+green jobs created and secured
+  Number
+  No sector specific
+   Circular economy employment
+    % of total employment
+  No sector specific
+  Number of new jobs in the circular economy sectors
+   Number
+  No sector specific
+ Greater impact of training on the increase or improvement of green jobs, white jobs and other jobs
+  NA
+  No sector specific
+   Circular jobs
+    % of total employment
+  No sector specific
+  Persons employed
+   percentage of total employment
+   Agenda for the Development of the Circular Economy in Navarra 2019-2030
+Circular Amsterdam – A Vision and Action Agenda for the City and Metropolitan Area
+2018 Circular Bilbao and Bizkaia
+Circular Economy Procurement implementation Plan and Framework
+Circular economy: what we want to know and can measure
+2019
+2016
+         2018
+2018
+      2019 Basque Country Circular Economy Strategy 2030
+2018 Extremadura 2030. Green and Circular Economy Strategy
+Measuring the Circular Economy Developing an indicator set for Opportunity Peterborough
+2019 Monitoring framework for the circular economy
+      2018
+     THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+ 55
+     Subcategory
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+Jobs and human resources
+References
+Sector
+Indicator
+Unit
+Year Name of the Study
+2017 Paris Circular Economy Plan: 2017-2020
+2017 Paris Circular Economy Plan: 2017-2020
+2015 Promoting the Green and Circular Economy in Catalonia
+   No sector specific
+  Turnover and workforce of organisations working in the circular economy
+   NA
+  No sector specific
+   Number of jobs created
+    Number
+  No sector specific
+  Green employment rate
+   %
+  Public administartion
+ Number of people actively working on the development of a circular vision
+  Number
+  Reuse, repair, share
+  Job creation from the sharing economy in the city
+   Number
+  Reuse, repair, share
+   Number of jobs created from reuse activities
+    Number
+            2018
+Circular economy: what we want to know and can measure
+   2018 2nd Roadmap Paris Circular Economy Plan
+2018 2nd Roadmap Paris Circular Economy Plan
+     EC (2018), EU Monitoring Framework for the Circular Economy, European Commission, https://ec.europa.eu/eurostat/web/circular-economy/indicators (accessed on
+7 November 2019).
+EEA (2016), Circular Economy in Europe, European Environment Agency, https://www.eea.europa.eu/publications/circular-economy-in-europe (accessed on
+[3]
+[4]
+  THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+
+56 
+7 November 2019).
+OECD (2020), OECD Survey on Circular Economy in Cities and Regions, OECD, Paris.
+OECD (2020), The Circular Economy in Cities and Regions: Synthesis Report, OECD Urban Studies, OECD Publishing, Paris, https://dx.doi.org/10.1787/10ac6ae4-en.
+OECD (2013), OECD Glossary of Statistical Terms - Efficiency Definition, OECD, Paris, https://stats.oecd.org (accessed on 3 August 2020).
+[1] [2]
+[5]
+  THE OECD INVENTORY OF CIRCULAR ECONOMY INDICATORS© OECD 2021
+
+       Annex A. List of monitoring frameworks included in the OECD Inventory of Circular Economy Indicators
+Table A A.1. List of monitoring frameworks included in the OECD Inventory of Circular Economy Indicators
+Scale Country
+Region
+City
+Author Colombia
+European Union France
+Italy Netherlands Portugal Slovenia
+Spain
+Basque Country (Spain) Brussels-Capital Region (Belgium) Catalonia (Spain)
+Extremadura (Spain)
+Galicia (Spain)
+Navarre (Spain)
+North Karelia (Finland)
+Scotland (United Kingdom) Amsterdam (Netherlands) Barcelona (Spain)
+Bilbao (Spain)
+Greater Porto Area (Portugal) Paris (France)
+Peñalolén (Chile)
+Peterborough (United Kingdom) Toronto (Canada)
+Turku (Finland)
+Monitoring framework National Strategy for the Circular Economy (2019)
+Monitoring Framework for the Circular Economy (2019)
+10 Key Indicators for Monitoring the Circular Economy (2017)
+Towards a Model of Circular Economy for Italy - Overview and Strategic Framework (2017) Circular Economy: What We Want to Know and Can Measure (2018)
+Leading the Transition [Action Plan for a Circular Economy in Portugal: 2017-2020] (2017) Roadmap Towards the Circular Economy in Slovenia (2018)
+Spanish Strategy for Circular Economy: España Circular 2030 (2020)
+Basque Country Circular Economy Strategy 2030 (2019)
+Regional Programme for the Circular Economy 2016 – 2020 (PREC) (2016)
+Promoting the Green and Circular Economy in Catalonia (2015)
+Extremadura 2030. Green and Circular Economy Strategy (2018)
+Galician Strategy of Circular Economy 2019-2030 (2019)
+Agenda for the Development of the Circular Economy in Navarra 2019-2030 (2019) Roadmap of the Circular Economy of North Karelia (2018)
+Making Things Last A Circular Economy Strategy for Scotland (2016)
+Circular Amsterdam – A Vision and Action Agenda for the City and Metropolitan Area (2016) The Green and Circular Economy of Barcelona City Council (2019)
+Circular Bilbao and Bizkaia (2018)
+Circular Economy Framework Monitoring Report (NA)
+Paris Circular Economy Plan: 2017-2020 (2017)
+1st Roadmap Paris Circular Economy Plan (2017)
+2nd Roadmap Paris Circular Economy Plan (2018)
+Inclusive Recycling Programme (2013)
+Measuring the Circular Economy: Developing an Indicator Set for Opportunity (2018) Circular Economy Procurement Implementation Plan and Framework (2018)
+Resource Wisdom Roadmap
+ 57
+                                                                               Note: The cities of Milan (Italy), Munich (Germany), Quillota (Chile) and Tilburg (Netherlands) provided circular economy indicators through the OECD Survey on the Circular Economy in Cities and Regions (2020[1]). However, indicators are not included in specific strategies/initiatives.
+THE CIRCULAR ECONOMY IN CITIES AND REGIONS: SYNTHESIS REPORT © OECD 2020
+

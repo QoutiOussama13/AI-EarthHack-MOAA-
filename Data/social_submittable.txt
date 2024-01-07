@@ -1,0 +1,270 @@
+How to Measure Social Impact: 8 Best Practices
+
+Measuring the impact of your social good programs is a critical part of ensuring their effectiveness and helping them to grow. Here are strategies to help get it done.
+
+
+Natalya Taylor
+04/02/2021
+
+More and more, organizations of all stripes are focused on creating a positive change through social impact programs. 
+
+Social impact is the effect that actions have on people, communities, and society. You can think of your social impact programs as an effort to create public value—ideally, in ways that are systemic, sustainable, and innovative. Another way to think of social impact is as work that serves to address a local or global community need.
+
+Measuring social impact is important for a variety of reasons. In many instances, establishing the effectiveness of programs is crucial to secure continued funding. A track record of success can also help good ideas spread, allowing the positive change to infiltrate more communities and improve more lives. Equally important is identifying initiatives that are not performing well, so that they can be changed and improved—ensuring that the resources committed have the environmental, social, or other positive impact intended. 
+
+
+But how can you assess something as broad as social change? What metrics can organizations use to measure social impact? Especially given that this work looks different for every organization and initiative, there is no one-size-fits-all solution. 
+
+There are, however, proven strategies that can apply broadly to analyze and improve many types of programs. In this post, we’ll explore eight best practices for how to measure social impact. 
+
+8 best practices for measuring social impact
+Decide on a framework
+Identify your metrics
+Understand your attribution 
+Get the timing right
+Value qualitative data
+Recognize your own accountability 
+Be open to learning 
+Use tools to help
+ 
+
+1. Decide on a framework
+The first step in measuring social impact is deciding upon a framework. Choosing a framework gives you a structure within which you can set targets against which you can measure your performance. 
+
+Ideally, you’ll identify your framework for measuring your social impact before you begin your program. This is because working backward, your target performance indicators can help you develop program strategy. 
+
+Depending on your organization, your available resources, and the scope and focus of your efforts, you may choose to use an existing framework, or to create your own. 
+
+Using an existing framework
+
+There are many frameworks that have been developed by institutions and academics to tackle the sticky problem of measuring social change. An additional benefit of using an existing framework is that many of them also provide guidance on how to perform the measurement. Some top frameworks to consider are:
+
+B Impact Assessment
+
+Developed by B Lab, a non-profit organization dedicated to using the power of business as a force for good, the B Impact Assessment helps companies measure their impact on workers, community, environment, and customers, empowering them to assess the performance, compare themselves to peers, and identify areas for improvement. This is a good choice for a for-profit organization looking to measure the social impact of their organization holistically.
+
+Sustainable Development Goals
+
+The Sustainable Development Goals (SDGs) were designed by the United Nations to be a “blueprint to achieve a better and more sustainable future for all.” The 17 SDGs span from ending poverty to achieving gender equality to responsible production and consumption, and provide a north star for many organizations to judge progress toward targets.
+
+Principles for Responsible Investing
+
+Developed by the United Nations, the Principles for Responsible Investing (PRIs) offer a model to incorporate Environmental, Social, and Governance (ESG) factors into investment decisions—an ideal framework for impact investment strategies.
+
+The Global Reporting Initiative Standards
+
+The Global Reporting Initiative (GRI) Standards, provided by the Global Reporting Initiative, an independent, international organization, offer a barometer for “global best practice for reporting publicly on a range of economic, environmental, and social impacts.” The GRI Standards help organizations large and small measure and report on impact, and can include all or selected GRI Standards depending on the nature of the organization or program.
+
+Social Return on Investment
+
+First developed by the philanthropic fund REDF for nonprofit organizations to measure social, rather than monetary value, the Social Return on Investment (SROI) framework offers seven principles for measuring social impact: 
+
+Involve stakeholders
+Understand what changes
+Value the things that matter
+Only include what is material
+Do not over-claim
+Be transparent
+Verify the result
+
+This popular meme from an episode of the TV show “South Park” makes light of the challenge of understanding how actions can lead to desired outcomes.
+Creating your own framework
+
+For more focused programs, creating a proprietary framework may be the best way forward. There are several models that can be used as a template to develop your own framework to judge the performance of your social impact program. A few to consider are:
+
+Theory of Change
+
+A theory of change is a model frequently used by purpose-driven organizations across industries which identifies long-term goals around social progress, and works backward to identify the necessary preconditions which will bring the desired change about. 
+
+Logic Model
+
+Similar to a theory of change, a logic model identifies the inputs, activities, and outputs that will lead to the desired short and long term outcomes and ultimate impact. 
+
+
+Example of a typical logic model for a local food bank.
+Five Dimensions of Impact
+
+Developed by the Impact Management Project, this model identifies five dimensions of impact—what, who, how much, contribution, and risk—across which impacts can be benchmarked and measured.
+
+Whether you use an existing framework or borrow a model to come up with your own, choosing a framework is an important precursor to measuring your social impact.
+
+2. Identify your Metrics
+The best social impact metrics to track and measure for your program will be partiuclarly based on (1) the framework you select and (2) the scope of your program.
+
+Diving deeper into the kinds of metrics you may consider, we’ll follow a basic logic model framework of outputs and short and long term outcomes.  
+
+Outputs
+
+As a general rule, the more focused your program, the more straightforward the metrics to be measured. 
+
+Described as a “niche strategy” by Professor Alnoor Ebrahim of Tufts University in his award-winning book on the topic, Measuring Social Change: Performance and Accountability in a Complex World (Stanford University Press), a highly-focused program can more easily measure its direct, often short-term, outputs. 
+
+The theme among outputs for highly-focused programs is that the metrics are within the organization’s direct control. This means you will often be empowered to measure them yourself. 
+
+Let’s take an example of an organization—it could be for-profit, nonprofit, or government—that runs a social impact program partnering with a local food bank. As part of the partnership, the organization engages in the following activities: 
+
+Makes a quarterly donation 
+Contributes employee volunteers 
+Hosts an annual education session for employees
+Here, the metrics for those direct efforts may include: 
+
+Number of hours volunteered
+Amount donated 
+Percent of employees attending education session
+Let’s also consider the metrics that the food bank would in turn measure as their direct outputs, which could include: 
+
+Number of meals provided
+Number of people fed
+Percent of communities impacted within the state
+Number of people educated
+Outcomes
+
+As your program objective evolves in scope, or you look to measure the longer term, broader impact of your program—“outcomes” in a logic model—the metrics to consider become more complex. 
+
+This is partly due to the fact that outcomes are typically the result of efforts that extend beyond your organization’s program. Therefore, while you may be able to participate in some direct measurement yourself, you’ll likely also borrow data provided by outside sources. (You’ll also need to consider your attribution—more about that in the next section.)
+
+Here, the food bank and the organization that partnered with the food bank could share a set of desired short-term outcomes, which could include results like: 
+
+Reduction of hunger
+Reduction of food insecurity
+Reduction of stress 
+Increase in awareness of food insecurity
+In some cases, you may be in a position to directly measure these metrics yourself. For example, food insecurity can be measured via a survey of community members. 
+
+
+You can use Submittable’s social impact software to survey community members to gather important impact data.
+As you begin to measure long-term outcomes, it becomes increasingly likely that you’ll need to rely upon data sets provided by entities such as governments, nonprofits, or consultants.
+
+For example, the food bank may have long term outcome goals such as: 
+
+Improved quality of life for members of served community
+Improved health for members of served community
+Sustained reduction of poverty in the community at large
+Specific metrics which could indicate progress toward these broad, long-term objectives could include:
+
+Percent of children graduating from high school
+Teen pregnancy rates
+Divorce rates
+Median household income (poverty level)
+Unemployment rates
+Disease and undernourishment rates
+Such metrics might be mined from sources which include, for the United States: 
+
+United States Bureau of Labor Statistics
+United States Department of Public Health and Human Services
+Centers for Disease Control and Prevention
+The National Center for Education Statistics
+A few international sources include: 
+
+The Economist Quality of Life Index
+The World Health Organization
+UN Data
+In summary, when it comes to identifying metrics for your social impact, the more focused your program, the easier to measure your impact (and the easier to do so yourself). As goals grow in scope, judging your performance becomes a piece of a larger puzzle. Understanding your attribution when working toward overarching social change is a particular challenge.
+
+Launch, Measure, and Grow
+Submittable manages your social impact programs from end-to-end, helping you make a difference, fast.
+
+LEARN MORE
+3. Understand your attribution
+No program exists in a vacuum. Considering your attribution—or the degree to which your specific actions have brought about results—to a particular purpose or benefit is a part of honestly measuring the impact of your program. 
+
+As a general rule, the longer the term of impact that you measure, the more limited any one activity or program’s attribution. 
+
+To establish this truth, let’s take the outcome objective of a reduction of food insecurity as explored in the food bank example above. Perhaps in 2020, the food bank met all it’s benchmarks on its output metrics, which, recall, were:   
+
+Number of meals provided
+Number of people fed
+Percent of communities impacted within the state
+Number of people educated
+
+Yet, after meeting each of its direct goals, the food bank saw reduced performance compared to 2019 amidst all of their short- and long- term outcome objectives. 
+
+What gives? While admittedly an extreme example, this clarifies the point—as we all know, in 2020 the COVID-19 pandemic wreaked havoc quite universally on the health and wellbeing of communities across the world. 
+
+The lesson here is that in judging your performance against your target outcomes, you should consider to what extent your own activities influenced the larger outcomes. 
+
+Taking attribution into account in this example isn’t at all to suggest that the food bank failed. In fact, it’s highly likely that without the food bank’s efforts, hunger, food insecurity, and related health outcomes might have deteriorated far more than they did with the food bank providing a safety net.
+
+Understanding attribution, of course, cuts both ways. It’s equally important that organizations not assume too much attribution for positive outcomes to which they may not have contributed, or only partially contributed. 
+
+From a perspective of creating the most positive change, claiming too much credit for outcomes would be a false indicator of the effectiveness of a program. This would be dishonest and misleading for stakeholders. It could also lend a sense of complacency, and cause a missed opportunity to improve upon a program that is only somewhat effective. 
+
+Of course, understanding attribution is not a perfect science. Still, assessing the larger landscape can help you paint a more accurate picture of your role in progress toward your longer term objectives. To estimate attribution, consider: 
+
+Activities by organizations or individuals you actively partner with in your work
+Activities by other entities independent of your efforts, but with the same or overlapping goals or results
+Macroeconomic, political, public health, or forces of nature which may influence outcomes 
+These kinds of questions can give you a better understanding of your attribution toward short- and long-term goals. Understanding attribution doesn’t mean discounting the legitimate impacts of your program. Rather, it means that to get an accurate (and honest) measurement, you must put your work in the appropriate context. 
+
+
+4. Get the timing right
+Sometimes, social impact measurement comes down to good timing. 
+
+Just as with metrics and attribution, the right time to measure your impact will depend on whether you’re measuring your immediate outputs or ultimate outcomes. Naturally, the longer-term the goal, the more time should be allowed for measurement. 
+
+Your output metrics should be measured on a predetermined schedule, such as monthly, quarterly, and/or annually. 
+
+To ensure you stay on top of your impact measurement, you should decide when you will measure ahead of time and stick to your schedule. 
+
+Some outcomes will require more time and even some flexibility. Consider, as thought leader Neil Buddy Shah warned at a recent panel, that good ideas risk “failing” if held to too rigorous a benchmark at too early a date. 
+
+For instance, let’s say your organization is beginning a new impact program rooted in partnership with community members. Building trust takes time—while the effort may ultimately be effective, the first year or more may have little to show for your efforts. The trick here is patience—set appropriate expectations for your initial measurements, rather than concluding the program is a failure. Also consider alternative markers of progress to ensure your program is on track as you lay the groundwork.
+
+Book Cover Banner: How to Start and Build An Effective CSR Program
+5. Value qualitative data
+In business, when it comes to measuring return on investment (ROI) and other success indicators, quantitative data rule supreme. 
+
+But when it comes to measuring social impact, the ultimate beneficiaries of any effort toward social change are people. People are more dynamic than numbers. So to accurately analyze your impact, you also need qualitative data—in other words, to collect and tell stories. 
+
+Rather than a complicated metrics analysis, storytelling can actually help make sense of the intersection of all of the elements involved—clarifying the sometimes messy relationship between outputs, outcomes, attribution, and societal change. 
+
+For instance, let’s return to the food bank example. You might look at a collection of your quantitative data, which as we recall, included measuring: 
+
+Meals provided
+People fed
+Families assisted
+Communities served
+Educated individuals
+The goal of these activities was to achieve short- and long-term outcomes, including reduction of hunger and stress and improvement of quality of life for the community served. Stories can help illustrate the connection between those immediate outputs and ultimate outcomes. 
+
+For instance, imagine an individual served—say, a single mom working two part-time jobs—explaining in her own words how the support from the food bank impacted her life. She explains that the regular meals she received not only nourished her family, but reduced her stress levels, which had been long exacerbated by worry about feeding her family. A year later, she had found a steady, higher paying job, and was on track to lift her family out of poverty. She also had more time and energy to provide more academic support to her children, who were in turn, now performing better in school. 
+
+This narrative draws the through line between the activities of the food bank and the ultimate desired outcomes in a way that numbers never could.
+
+One more note on qualitative data: telling stories in mediums beyond a simple narrative, such as video, visual, audio, can not only bring them to life and make them more impactful, but also offer a more accessible way for many stakeholders to contribute.
+
+
+Many organizations use Submittable’s Additional Forms feature to gather qualitative data from program beneficiaries, which can accept over 50 different types of files including video.
+6. Recognize your own accountability
+Of increasing interest in philanthropic spaces is the importance of true partnership with stakeholders. For organizations looking to create positive change through grant programs, this means developing a culture of listening and being responsive to the needs, concerns, and ideas of the individuals or communities served.
+
+When it comes to reporting on the impact of those grants, it’s important to recognize that the onus for demonstrating results does not lie solely with the beneficiaries, but rather that accountability is a two-way street. 
+
+As Professor Ebrahim said:
+
+Donors want to support nonprofits that can demonstrate impact. But donors have a role to play in enabling impact, and they have an opportunity to connect nonprofits that are working on different pieces of a social problem in isolation. This might mean building the capacity of those nonprofits to have an impact at scale together.
+
+Organizations can practice “downward accountability” by: 
+
+Leveraging relationships and making introductions
+Building capacity in coordination with other organizations
+Creating transparent measurement processes in direct coordination with the communities served
+7. Be open to learning
+Those seeking to honestly measure social impact must accept a hard truth: sometimes, our efforts are not successful! At least, not in the way that we hoped, in accordance with our objectives. 
+
+To run deeply impactful societal change programs means to accept failure as an opportunity for growth. When your metrics tell you that you did not meet the mark, listen to stakeholders and do the research to find out why. Then, make changes and improve. 
+
+An openness to failure is particularly important as initiatives for social change become increasingly creative. Consider: none, or few, of society’s primary social evils are particularly new. As thought leader Pia Infante put it in a recent keynote at the Yale Philanthropy Conference, failing to be creative means risking “replicat[ing] the same systems of extraction that got us here.” 
+
+Creative endeavors for social impact give us space to explore new ways to create positive change. But they can also tend to be higher risk. Rather than avoid a novel idea, instead, begin with a mindset to try your best, measure honestly, and be open to pivoting, evolving, or scrapping those initiatives that don’t work out. 
+
+Getting all stakeholders on board with the courage and honesty it takes to admit when things don’t work out will also help elicit honest feedback from beneficiaries. If a grantee knows you won’t defund their program when they fail to show the anticipated results, they’ll be more likely to tell the truth about why they didn’t succeed. This transparency will go a long way toward making the on-the-ground improvements that will help the initiative grow and be more successful the next time. 
+
+8. Use tools to help 
+For organizations ready to engage in the hard work of measuring their impact, the right support can make a big difference. 
+
+Social impact platforms that allow you to collect direct data from stakeholders and beneficiaries empower you to measure outputs and outcomes. Submittable’s Impact Reports feature even aggregates that data for you, enabling you to tell a story complete with quantitative and qualitative data. 
+
+Impact Reports feature
+Submittable’s Impact Reports aggregate qualitative and quantitative data for simplified story-telling.
+When it comes to making sense of long-term outcomes and your attribution to them, many academics and consultants specialize in this work, and can be enlisted to lend a han

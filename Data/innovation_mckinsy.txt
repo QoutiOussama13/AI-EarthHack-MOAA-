@@ -1,0 +1,131 @@
+How to take the measure of innovation
+October 8, 2018 | Podcast
+
+Share
+Print
+
+Download
+Save
+By combining two simple metrics, companies can gain valuable insights into their innovation performance.
+DOWNLOADS
+
+Article (PDF-601 KB)
+In the latest episode of our Inside the Strategy Room podcast, senior partner Erik Roth and associate partners Guttorm Aase and Sri Swaminathan speak with Sean Brown about how companies can gain valuable insights into innovation performance from a pair of metrics that have been hiding seemingly in plain sight. Their core components—gross margin, R&D, and sales from new products—are not new, but combining them can shed new light on the relative innovation performance of business units within an organization and relative to external peers.
+
+Listen to the podcast:
+Apple Podcasts
+Spotify
+Google Podcasts
+Podcast transcript
+
+Sean Brown: From the McKinsey Strategy and Corporate Finance Practice, I’m Sean Brown. Welcome to Inside the Strategy Room. Today, we’ll hear from the authors of the recent McKinsey article, “Taking the measure of innovation.” Erik Roth is a senior partner in the Stamford office and is a global innovation leader in our Strategy Practice. He directs McKinsey’s work in innovation globally and also coauthored the seminal article “The eight essentials of innovation.” Guttorm Aase and Sri Swaminathan are associate partners who also focus on innovation.
+
+To start off, Erik: often when people think about measuring innovation performance, they think of things like the number of patents the company has registered or the new-innovation pipeline. Your latest article focuses on a pair of innovation metrics. Can you say a little bit more about that?
+
+Erik Roth: We get the question about innovation metrics quite often. And when a client asks us that question, they typically are concerned with the activity of R&D and innovation as opposed to the output and the impact of that output on performance. And so often when we address this with clients, they’re interested in scorecards that are measuring the number of ideas, ROI [return on investment] on a specific project, the number of projects, and any assorted metrics trying to look at how well their organization is performing.
+
+What’s interesting is, we rarely see an organization taking a thoughtful approach to how it actually measures the outcome of its innovation in R&D performance over time. In this article, what we explored—actually on the back of a client question—was, what is a really good, simple, and benchmarkable metric that can be used to both assess the performance of R&D innovation in an organization and compare it to other companies so that a CEO can understand whether or not their investments in R&D are productive relative to their competitive context and also are achieving their performance objectives over time?
+
+Subscribe to the Inside the Strategy Room podcast
+Google Podcasts
+Apple Podcasts
+Spotify
+Sean Brown: Why do you think no one has used these two metrics before?
+
+Erik Roth: I think no one has used these particular metrics before because a lot of innovation-measurement activity or -measurement focus has been largely on what I’ll describe as “upstream” activity. That’s the inputs into what makes innovation happen. We see a lot of quantification of the number of ideas and the size of the portfolio. Oftentimes an organization will get very caught up with patents and the number of patents that they are filing. While all of those are interesting inputs into innovation R&D, they don’t necessarily understand or measure the monetization of those investments in your R&D and innovation activity.
+
+And as companies have explored ways to try and understand how to measure the output, or the outcome of their R&D investments, they’ve struggled largely because there are not a lot of common metrics across industries or across organizations that capture what our two metrics capture, which is both the investment side and the outcome side in the form of profit margin for the resulting impact of what R&D investments and innovation investments may have.
+
+Part of the reason we think that’s the case is, one, companies don’t typically release a lot of information about their R&D investments, so there are very few commonly described metrics. And two, the belief has always been, if you really want to understand how to measure R&D and innovation activity, you have to have so much internal proprietary knowledge around what activities are going on, what capabilities are associated with those activities, and the nature of the projects themselves.
+
+I think in many ways the reason why no one has used these is because the belief had been that it was just too complicated; it was just too hard to do.
+
+Guttorm Aase: That’s what we found really appealing about these metrics. This is really a methodology that allows you to benchmark using three simple metrics that are typically available from publicly reported data, which is quite unique in this context. It really only takes a view of R&D spending, of gross margins, and of the shares of sales of spend coming from new-product sales. And those are usually available. That makes it very easy to get a sense of how you’re doing from a performance standpoint versus building these complex internal models that Erik mentioned.
+
+Sean Brown: Thank you. Can you please share a brief overview of the two metrics and how they are constructed?
+
+Guttorm Aase: There are essentially two conversion metrics that we look at. One is the ratio of how your R&D spending is converting into new-product sales. It’s just the ratio of those two numbers. And we look at new-product sales over a time period of a number of years, which can vary by industry. Typically, you’ll see new-product sales measured over a five-year period or a three-year period. And we’re looking at the ratio of those two numbers across each other. That gives you a number that says, for each dollar of R&D spending, how many new-product sales am I getting on average? So that’s the first metric.
+
+The second metric is our product-to-margin conversion metric, which looks at each dollar of new-product sales and asks, how many new dollars of gross margin am I generating? So that’s, again, just the ratio of gross margin to new-product sales.
+
+Erik Roth: I just want to highlight one thing about what Guttorm mentioned, which is the word “conversion.” It’s a very important aspect of these two metrics in the sense that we’re really trying to look at a way to capture the ROI from these investments, not from a traditional net present value project-level analysis, but to really understand, does the investment convert into meaningful profit for the overall entity over time?
+
+Sean Brown: So you’re really looking at the entity or the enterprise—more the portfolio of innovation—and what the productivity is in the portfolio or what’s coming out of that portfolio.
+
+Sri Swaminathan: Yes, that’s right. We find these quite useful as portfolio measures. And they can provide really interesting insights for companies on how they’re performing versus their peers in the same industry. We’ve tested this now in the chemicals industry. We’ve looked at the consumer-goods industry, in the industrial sector, and the pharmaceuticals industry, and we see these relationships holding across various sectors.
+
+Erik Roth: This portfolio look is really important, because what we find is that companies just get metrics wrong. They consistently measure at a project level instead of a portfolio level, even though they talk about portfolio. Having had so many of these conversations, what we really wanted to do is make sure the portfolio view is really embedded in what we’re looking at.
+
+This came out of a challenge question from a CEO. We were sitting in a client meeting one day, and the CEO turned to us and said, “You know, I’ve looked at this metrics thing so many times. There’s nothing out there. Why don’t you guys come back and try to prove that there is some simple way that we can actually measure innovation and R&D output that’s reliable and benchmarkable. Because, you know what, I need to go to ‘the Street’ and understand and communicate to my investors that we’re actually doing a better job relative to what we’ve done historically.”
+
+We came back—I’ll never forget that meeting—and said, “We’ve got two metrics.” There was a general sense of disbelief, because this particular CEO had looked at this many, many, many times. And he’s well known for his activities across many companies. He was surprised that there was something so obvious and useful that was right in front of everybody’s nose, so to speak.
+
+And so this notion of getting it wrong and trying to correct and get it right with simple ways of measuring is a little bit of what was underlying our approach or our intent.
+
+Sean Brown: How did you come up with the five-year rolling averages? Did you look at all of the different time ranges? What makes five years special?
+
+Guttorm Aase: The five years are in some ways tied to the innovation cycle of the industry. I think as we looked at different industries, we saw that in certain industries, like consumer goods, the innovation cycle is a little bit shorter and it’s more common to look at innovations over a three-year period. For that industry, it fits to look at three-year averages across margins, across R&D spending, and across product innovation. Whereas if we go to the specialty-chemicals industry, or specialty materials, then, typically, a five-year number is more common. For that industry, it would be more appropriate to look at five-year averages, so you can get a sense of how your spending is evolving over a similar time period as the innovation activity is taking place and also translating into margin conversion over the same time period.
+
+Sean Brown: So these metrics actually work well across industries, and the only thing that you really need to think about is, what’s the innovation timeline or the innovation cycle when you’re looking at the time period over which you might do rolling averages? Is that right?
+
+Erik Roth: Yes. There are two ways to answer that question. One is, if you’re just doing it internally for yourself, you absolutely want to respect the time frames of your innovation and R&D cycles. If you want to do comparable [looks] across your industry or other industries, then you’re in an outside-in, benchmarkable scenario, where you have to see what available data can be collected and then adjust accordingly. But ideally, if you’re doing a like-for-like [comparison] within your own company, you’d pick the meaningful cycles of innovation and apply that number.
+
+Sean Brown: If you’re a CEO, and you want to implement these metrics, what are the key things that an organization needs to do to start using them? And is it a significant investment in order to do so?
+
+Sri Swaminathan: The beauty of the metrics that we’ve developed is really in their simplicity. It is not a huge investment to benchmark yourself using these numbers to get a sense of how you place yourself relative to peers in the industry. We’ve tested this now with several clients, and it is actually extremely instructive to do a couple of things.
+
+One, the company needs to gather the data on its own new-product-development revenues and compare that as a percentage of sales. Most companies already track that as part of their innovation metrics, but if they haven’t, then it’s a relatively simple exercise to have a view of how much of their internal revenues is being generated by new products. The second step is then to compare that to the performance within the industry. This data is often published in annual reports, in investor day presentations, and in other formats.
+
+What is particularly informative for CEOs is to look at your company’s performance versus peers on two axes. The first is to say, “For every dollar of R&D that we are expending, how much new-product sales are we getting? And how does that compare, most critically, to peers in our industry?” If you have a high conversion rate of R&D into new products, that can be a really good sign that you are effectively deploying your R&D resources into applications and areas that are ending up in new products.
+
+The second thing that you would want to look at is, “For the new products that I’m generating, how am I doing on gross margin performance? And how do I compare against peers in my industry?” And here, we see a spectrum again. Some companies are highly effective at converting their new-product sales into margin. This indicates they have a healthy innovation pipeline and that their products are truly transformative and command a margin in the marketplace. For others, we have seen that they might be producing many new products, but those new products are not generating high gross margins, which can indicate that the new products are actually quite incremental compared to competitors. Or perhaps that the cost to produce those new products is higher than you would expect.
+
+Erik Roth: And, Sean, if I could add to that, one of the things that we’ve observed as we’ve gotten into this—particularly as we look at the chemicals space and the materials-science space—is, we feel like companies are just way too inwardly focused. As Sri pointed out, the ability for a company to do two things—one, to look at the margin impact, and two, to think about that margin in the context of its commercial execution, specifically in terms of whether or not it’s getting adequate pricing—is very powerful.
+
+Too often we see the debate around innovation R&D portfolios resting on how much gets invested against each project and budget cycles as opposed to what kind of a return is going to be generated by those investments. And now the argument might be, well, the time cycle to development is too long; we don’t know. That is all true; however, that’s also why we’re proposing this metric, as a little bit of a look back over time to accommodate some of those nuances or realities around what it takes to develop a specific product [without moving] away from the reality that if a product that you’re putting out in the market isn’t generating sufficiently high enough profit-margin return, then why are you investing in it at all?
+
+And too often we see these incremental projects that are out there that really won’t meaningfully contribute to a company’s bottom line but are absorbing so many resources for reasons that have nothing to do with performance.
+
+Sean Brown: For the new-product-to-margin conversion, many folks will look at disruptive innovation as something that they might invest in. But often disruptive innovations can lead to a lower-margin product that could come in and undercut the existing players and incumbents. So how do you square the usage of new-product-to-margin conversion and the potential implications for investments in disruptive innovations that are coming out of a given organization?
+
+Erik Roth: I think we need to separate the innovation strategy from the metrics of performance. If the strategy for innovation is explicitly to do more disruptive innovation, then the portfolio has to accommodate that. And how you evaluate the metrics also needs to be in line with those strategic decisions.
+
+Sean Brown: Thank you. This makes perfect sense. And I appreciate the opportunity to really dig in on that. I think many of our disruptive innovators will be pleased to hear how they can still leverage these metrics.
+
+Did you look at how much these measures change over time? For the industries that you studied, did you see any wide variations in year-to-year performance? Especially given that this is a five-year rolling average, you would not expect them to not change that much, but were there any that stood out in terms of the leading performance indicators over time?
+
+Guttorm Aase: We did see interesting examples of evolutions over time. As we started to look at performance across five- to ten-year periods, we would see that companies actually had the potential to improve on these metrics. And there were a handful of examples where low performers, say ten years ago, now were transformed into high performers either on both metrics or on one of the dimensions. And that was typically associated with a change in their innovation strategy that was publicly reported.
+
+Would you like to learn more about our Strategy & Corporate Finance Practice?
+Visit our Growth & Innovation page
+Erik Roth: One of the things that we hope comes out of this is that companies get more focused on the holistic view of their innovation and R&D activity. Because what we have seen across industries is a high degree of variability on what I’ll call the “commercialization” side of R&D. This whole notion of consistently successful launch and scale is not pervasive across companies.
+
+And if you think about these metrics, they encompass both the upstream activity and investment in the R&D but, more importantly, combine it with the downstream commercialization, realization, and monetization of that R&D and innovation investments. And we think there’s a massive opportunity for companies to think about the “how” as opposed to overly focusing on the “what.”
+
+Sean Brown: Are there any pitfalls to implementing these metrics?
+
+Erik Roth: For one, thinking that any two metrics are going to absolutely solve your innovation and R&D problems. If a company were just to take these two metrics and rely on them by themselves, I think we would say, “You’re in trouble. You’re not getting it.”
+
+We would say, this needs to be a part of a portfolio of metrics—not too many, you know, we shouldn’t see 16, but it’s not two—that help you understand how you’re doing relative to your competitors so that you’re getting better return and looking more positive in the eyes of investors. But also, more importantly, you’re managing your organization appropriately so that you get higher-value output over time.
+
+Sean Brown: Have you found clients use these to compare the productivity of portfolios amongst business units?
+
+Guttorm Aase: Absolutely. And that’s one of the ways that we’ve found that some of our clients actually find this most useful: not just to compare themselves against their peers but also within their enterprise to understand how the innovation spending is being used, how efficiently it’s being translated into new products, and how efficiently these business units are generating margin uplift from them.
+
+Sean Brown: On the new-products-to-margin conversion, how do you incorporate the notion of pricing strategy? In other words, when you unpack the outcome, the enterprise may be coming up with some really incredible innovation, but perhaps they’re taking a beating on their new-product-to-margin conversion because they’re not pricing it effectively?
+
+Sri Swaminathan: I think that’s one of the potential causes that this analysis can point to. If the company does this benchmarking and says, “Okay, our new-product-to-margin conversion appears to be lower than our peers are generating,” it prompts the question, “Why?” One of the reasons could be, it’s not pricing these products at a premium to the products that already exist in the market. And therefore, its new-product-to-margin ratio looks low. There could be a good reason behind that, a deliberate reason behind that, such as a price point that is designed to generate adoption. It may be an unintended consequence or a sign that pricing strategy hasn’t fully been developed for those new products.
+
+When we look at this at a portfolio level, what we do is take the conversation away from one or two individual projects. We’re looking in aggregate of all the new products that a company is producing and of all the gross margin that a company is producing.
+
+Sean Brown: Before we wrap up, one final question. Erik, earlier I alluded to “The eight essentials of innovation” article. Have you thought through how these routine metrics tie into that work?
+
+Erik Roth: Measuring innovation performance is critical to understand if the investment—the time, all of the activity, and all of the capabilities being built to push innovation—is actually amounting to anything. If you think about the eight essentials, one of the core principles of the very first essential is, you need the aspiration. You need to be able to set a very clear destination, or “north star,” that’s bold and plausible and describe it in enough clarity and granularity so that you can measure not only when you’ve gotten there but how you’re doing along the way.
+
+And if we look at each one of the essentials, I know we would find there are metrics embedded in all of them. And what the eight essentials really are trying to do are help a company reflect on its current performance relative to innovation, and also give it the opportunity to benchmark against others, and, more importantly, reorient the activity around innovation toward value creation.
+
+At the end of the day, a company that performs well across the eight essentials is one that consistently creates new products, services, experiences, and business models over time that create substantial value relative to its performance. I can’t think of two better metrics that would be indicators of exactly that than the two we’ve got in this article.
+
+Sean Brown: That is all from Inside the Strategy Room. Erik, Sri, Guttorm, thanks again for joining us.
+
+
