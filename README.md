@@ -87,7 +87,7 @@ your answer with the evaluation and the short description for each metric and wa
 
 2. If you prefer a guided approach, you can make a copy of the Colab notebook called `Idea_Evaluator.ipynb`. This notebook provides a step-by-step guide on using the MOAA Advisor for evaluating circular economy proposals.
 
-3. To run the full application in a collaborative environment, navigate to the demo file and execute `Streamlit_template.ipynb` to run the `app.py` in Colab. This allows you to experience the interactive features of the application within the Colab environment.
+3. To run the full application in a Google Colab, navigate to the `Demo` Folder and execute `Streamlit_template.ipynb` to run the `app.py`. This allows you to experience the interactive features of the application within the Colab environment.
 
 4. For local execution (not recommended but possible), follow these steps:
    - Install the required dependencies by running:
